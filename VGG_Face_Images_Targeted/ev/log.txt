@@ -1,0 +1,384 @@
+*****NEW LOG STARTED
+Time: 2024-02-15 13:40:51.098367
+Loss Model: SCC
+Original person & class:  Elizabeth_Vargas (2308)
+Target person & class: Geoffrey_Rush (2808)
+
+Iteration #0
+Loss: -11.83433
+Prediction #0:  Elizabeth_Vargas (74.33%)
+Prediction #1:  Andrea_McLean (3.97%)
+Prediction #2:  Koncz_Zsuzsa (1.86%)
+
+Iteration #5
+Loss: -5.298666
+Prediction #0:  Julieta_D\xc3\xadaz (9.6%)
+Prediction #1:  Maite_Embil (6.83%)
+Prediction #2:  Malena_Alterio (4.69%)
+
+Iteration #10
+Loss: 0.27856636
+Prediction #0:  Maite_Embil (10.72%)
+Prediction #1:  Coleen_Nolan (8.25%)
+Prediction #2:  Erika_Buenfil (3.72%)
+
+Iteration #15
+Loss: 5.1441298
+Prediction #0:  Coleen_Nolan (15.42%)
+Prediction #1:  Erika_Buenfil (12.64%)
+Prediction #2:  Maite_Embil (3.61%)
+
+Iteration #20
+Loss: 9.927909
+Prediction #0:  Geoffrey_Rush (22.38%)
+Prediction #1:  Erika_Buenfil (15.5%)
+Prediction #2:  Coleen_Nolan (10.53%)
+
+Iteration #25
+Loss: 14.602575
+Prediction #0:  Geoffrey_Rush (78.04%)
+Prediction #1:  Rolando_Boldrin (5.64%)
+Prediction #2:  Birthe_Kj\xc3\xa6r (2.82%)
+
+Iteration #30
+Loss: 18.739553
+Prediction #0:  Geoffrey_Rush (97.01%)
+Prediction #1:  Rolando_Boldrin (1.93%)
+Prediction #2:  Birthe_Kj\xc3\xa6r (0.18%)
+
+Iteration #35
+Loss: 22.715326
+Prediction #0:  Geoffrey_Rush (99.53%)
+Prediction #1:  Rolando_Boldrin (0.33%)
+Prediction #2:  Dieter_Hallervorden (0.03%)
+
+Iteration #40
+Loss: 26.389786
+Prediction #0:  Geoffrey_Rush (99.95%)
+Prediction #1:  Rolando_Boldrin (0.02%)
+Prediction #2:  Dieter_Hallervorden (0.01%)
+
+Iteration #45
+Loss: 29.562637
+Prediction #0:  Geoffrey_Rush (99.99%)
+Prediction #1:  Dieter_Hallervorden (0.01%)
+Prediction #2:  Rolando_Boldrin (0.0%)
+
+Iteration #50
+Loss: 32.36492
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Dieter_Hallervorden (0.0%)
+Prediction #2:  Rolando_Boldrin (0.0%)
+
+Iteration #55
+Loss: 34.977257
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Dieter_Hallervorden (0.0%)
+Prediction #2:  Ian_McKellen (0.0%)
+
+Iteration #60
+Loss: 37.355957
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Dieter_Hallervorden (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #65
+Loss: 39.56978
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Dieter_Hallervorden (0.0%)
+Prediction #2:  Ian_McKellen (0.0%)
+
+Iteration #70
+Loss: 41.694782
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Dieter_Hallervorden (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #75
+Loss: 43.65956
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Dieter_Hallervorden (0.0%)
+Prediction #2:  Jean_Todt (0.0%)
+
+Iteration #80
+Loss: 45.424793
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Dieter_Hallervorden (0.0%)
+Prediction #2:  Jean_Todt (0.0%)
+
+Iteration #85
+Loss: 47.099274
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Dieter_Hallervorden (0.0%)
+
+Iteration #90
+Loss: 48.63639
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Dieter_Hallervorden (0.0%)
+
+Iteration #95
+Loss: 50.06006
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Dieter_Hallervorden (0.0%)
+
+Iteration #100
+Loss: 51.38102
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #105
+Loss: 52.689457
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #110
+Loss: 53.89661
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #115
+Loss: 55.04361
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #120
+Loss: 56.12006
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #125
+Loss: 57.179367
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #130
+Loss: 58.202057
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #135
+Loss: 59.162746
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #140
+Loss: 60.034046
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #145
+Loss: 60.856506
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Maciej_Male\xc5\x84czuk (0.0%)
+
+*****NEW LOG STARTED
+Time: 2024-02-15 13:44:05.160481
+Loss Model: SCC
+Original person & class:  Elizabeth_Vargas (2308)
+Target person & class: Geoffrey_Rush (2808)
+
+Iteration #0
+Loss: -11.83433
+Prediction #0:  Elizabeth_Vargas (74.33%)
+Prediction #1:  Andrea_McLean (3.97%)
+Prediction #2:  Koncz_Zsuzsa (1.86%)
+
+Iteration #5
+Loss: -5.298666
+Prediction #0:  Julieta_D\xc3\xadaz (9.6%)
+Prediction #1:  Maite_Embil (6.83%)
+Prediction #2:  Malena_Alterio (4.69%)
+
+Iteration #10
+Loss: 0.27856636
+Prediction #0:  Maite_Embil (10.72%)
+Prediction #1:  Coleen_Nolan (8.25%)
+Prediction #2:  Erika_Buenfil (3.72%)
+
+Iteration #15
+Loss: 5.1441298
+Prediction #0:  Coleen_Nolan (15.42%)
+Prediction #1:  Erika_Buenfil (12.64%)
+Prediction #2:  Maite_Embil (3.61%)
+
+Iteration #20
+Loss: 9.927909
+Prediction #0:  Geoffrey_Rush (22.38%)
+Prediction #1:  Erika_Buenfil (15.5%)
+Prediction #2:  Coleen_Nolan (10.53%)
+
+Iteration #25
+Loss: 14.602575
+Prediction #0:  Geoffrey_Rush (78.04%)
+Prediction #1:  Rolando_Boldrin (5.64%)
+Prediction #2:  Birthe_Kj\xc3\xa6r (2.82%)
+
+Iteration #30
+Loss: 18.739553
+Prediction #0:  Geoffrey_Rush (97.01%)
+Prediction #1:  Rolando_Boldrin (1.93%)
+Prediction #2:  Birthe_Kj\xc3\xa6r (0.18%)
+
+Iteration #35
+Loss: 22.715326
+Prediction #0:  Geoffrey_Rush (99.53%)
+Prediction #1:  Rolando_Boldrin (0.33%)
+Prediction #2:  Dieter_Hallervorden (0.03%)
+
+Iteration #40
+Loss: 26.389786
+Prediction #0:  Geoffrey_Rush (99.95%)
+Prediction #1:  Rolando_Boldrin (0.02%)
+Prediction #2:  Dieter_Hallervorden (0.01%)
+
+Iteration #45
+Loss: 29.562637
+Prediction #0:  Geoffrey_Rush (99.99%)
+Prediction #1:  Dieter_Hallervorden (0.01%)
+Prediction #2:  Rolando_Boldrin (0.0%)
+
+Iteration #50
+Loss: 32.36492
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Dieter_Hallervorden (0.0%)
+Prediction #2:  Rolando_Boldrin (0.0%)
+
+Iteration #55
+Loss: 34.977257
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Dieter_Hallervorden (0.0%)
+Prediction #2:  Ian_McKellen (0.0%)
+
+Iteration #60
+Loss: 37.355957
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Dieter_Hallervorden (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #65
+Loss: 39.56978
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Dieter_Hallervorden (0.0%)
+Prediction #2:  Ian_McKellen (0.0%)
+
+Iteration #70
+Loss: 41.694782
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Dieter_Hallervorden (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #75
+Loss: 43.65956
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Dieter_Hallervorden (0.0%)
+Prediction #2:  Jean_Todt (0.0%)
+
+Iteration #80
+Loss: 45.424793
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Dieter_Hallervorden (0.0%)
+Prediction #2:  Jean_Todt (0.0%)
+
+Iteration #85
+Loss: 47.099274
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Dieter_Hallervorden (0.0%)
+
+Iteration #90
+Loss: 48.63639
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Dieter_Hallervorden (0.0%)
+
+Iteration #95
+Loss: 50.06006
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Dieter_Hallervorden (0.0%)
+
+Iteration #100
+Loss: 51.38102
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #105
+Loss: 52.689457
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #110
+Loss: 53.89661
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #115
+Loss: 55.04361
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #120
+Loss: 56.12006
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #125
+Loss: 57.179367
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #130
+Loss: 58.202057
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #135
+Loss: 59.162746
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #140
+Loss: 60.034046
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #145
+Loss: 60.856506
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Tommy_K\xc3\xb6rberg (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Geoffrey_Rush (100.0%)
+Prediction #1:  Jean_Todt (0.0%)
+Prediction #2:  Maciej_Male\xc5\x84czuk (0.0%)
+

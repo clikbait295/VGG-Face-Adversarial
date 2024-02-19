@@ -1,0 +1,192 @@
+*****NEW LOG STARTED
+Time: 2024-02-15 15:17:10.429821
+Loss Model: SCC
+Original person & class:  Kristin_Davis (4560)
+Target person & class: Malin_Åkerman (5060)
+
+Iteration #0
+Loss: -10.767202
+Prediction #0:  Kristin_Davis (17.45%)
+Prediction #1:  America_Olivo (6.51%)
+Prediction #2:  C\xc3\xa9cile_Duflot (6.12%)
+
+Iteration #5
+Loss: -4.1956635
+Prediction #0:  Kate_Ritchie (5.22%)
+Prediction #1:  Belinda_Stewart-Wilson (4.32%)
+Prediction #2:  Clare_Nasir (3.73%)
+
+Iteration #10
+Loss: 0.3305378
+Prediction #0:  Carli_Lloyd (6.68%)
+Prediction #1:  Kate_Ritchie (6.14%)
+Prediction #2:  Belinda_Stewart-Wilson (2.97%)
+
+Iteration #15
+Loss: 3.7748518
+Prediction #0:  Carli_Lloyd (23.35%)
+Prediction #1:  Debi_Nova (4.32%)
+Prediction #2:  Molly_Sand\xc3\xa9n (2.82%)
+
+Iteration #20
+Loss: 6.483117
+Prediction #0:  Carli_Lloyd (36.2%)
+Prediction #1:  Debi_Nova (4.18%)
+Prediction #2:  Felicitas_Woll (2.84%)
+
+Iteration #25
+Loss: 8.756181
+Prediction #0:  Carli_Lloyd (35.81%)
+Prediction #1:  Felicitas_Woll (8.77%)
+Prediction #2:  Tha\xc3\xafs_Blume (3.99%)
+
+Iteration #30
+Loss: 10.881205
+Prediction #0:  Felicitas_Woll (23.9%)
+Prediction #1:  Carli_Lloyd (22.66%)
+Prediction #2:  Tha\xc3\xafs_Blume (5.64%)
+
+Iteration #35
+Loss: 13.172388
+Prediction #0:  Felicitas_Woll (25.89%)
+Prediction #1:  Tha\xc3\xafs_Blume (10.64%)
+Prediction #2:  Nina_Bott (7.32%)
+
+Iteration #40
+Loss: 15.629692
+Prediction #0:  Tha\xc3\xafs_Blume (15.85%)
+Prediction #1:  Nina_Bott (14.8%)
+Prediction #2:  Felicitas_Woll (8.88%)
+
+Iteration #45
+Loss: 18.32248
+Prediction #0:  Tha\xc3\xafs_Blume (17.56%)
+Prediction #1:  Nina_Bott (15.64%)
+Prediction #2:  Gin_Wigmore (7.06%)
+
+Iteration #50
+Loss: 21.072712
+Prediction #0:  Malin_\xc3\x85kerman (17.56%)
+Prediction #1:  Adrienne_Frantz (15.67%)
+Prediction #2:  Tha\xc3\xafs_Blume (13.79%)
+
+Iteration #55
+Loss: 23.62584
+Prediction #0:  Malin_\xc3\x85kerman (56.85%)
+Prediction #1:  Adrienne_Frantz (15.32%)
+Prediction #2:  Tha\xc3\xafs_Blume (4.47%)
+
+Iteration #60
+Loss: 25.847368
+Prediction #0:  Malin_\xc3\x85kerman (88.09%)
+Prediction #1:  Adrienne_Frantz (5.07%)
+Prediction #2:  Tha\xc3\xafs_Blume (1.28%)
+
+Iteration #65
+Loss: 27.750275
+Prediction #0:  Malin_\xc3\x85kerman (95.56%)
+Prediction #1:  Adrienne_Frantz (2.25%)
+Prediction #2:  Tha\xc3\xafs_Blume (0.31%)
+
+Iteration #70
+Loss: 29.457365
+Prediction #0:  Malin_\xc3\x85kerman (98.35%)
+Prediction #1:  Adrienne_Frantz (0.89%)
+Prediction #2:  Anna_Karczmarczyk (0.13%)
+
+Iteration #75
+Loss: 31.508947
+Prediction #0:  Malin_\xc3\x85kerman (99.53%)
+Prediction #1:  Adrienne_Frantz (0.25%)
+Prediction #2:  Anna_Karczmarczyk (0.04%)
+
+Iteration #80
+Loss: 33.543648
+Prediction #0:  Malin_\xc3\x85kerman (99.8%)
+Prediction #1:  Adrienne_Frantz (0.1%)
+Prediction #2:  Anna_Karczmarczyk (0.03%)
+
+Iteration #85
+Loss: 35.334446
+Prediction #0:  Malin_\xc3\x85kerman (99.91%)
+Prediction #1:  Adrienne_Frantz (0.04%)
+Prediction #2:  Anna_Karczmarczyk (0.01%)
+
+Iteration #90
+Loss: 36.986626
+Prediction #0:  Malin_\xc3\x85kerman (99.96%)
+Prediction #1:  Adrienne_Frantz (0.01%)
+Prediction #2:  Anna_Karczmarczyk (0.01%)
+
+Iteration #95
+Loss: 38.514744
+Prediction #0:  Malin_\xc3\x85kerman (99.98%)
+Prediction #1:  Adrienne_Frantz (0.01%)
+Prediction #2:  Anna_Karczmarczyk (0.0%)
+
+Iteration #100
+Loss: 40.015297
+Prediction #0:  Malin_\xc3\x85kerman (99.99%)
+Prediction #1:  Adrienne_Frantz (0.0%)
+Prediction #2:  Anna_Karczmarczyk (0.0%)
+
+Iteration #105
+Loss: 41.449768
+Prediction #0:  Malin_\xc3\x85kerman (100.0%)
+Prediction #1:  Adrienne_Frantz (0.0%)
+Prediction #2:  Tamara_Beckwith (0.0%)
+
+Iteration #110
+Loss: 42.819294
+Prediction #0:  Malin_\xc3\x85kerman (100.0%)
+Prediction #1:  Adrienne_Frantz (0.0%)
+Prediction #2:  Tamara_Beckwith (0.0%)
+
+Iteration #115
+Loss: 44.110092
+Prediction #0:  Malin_\xc3\x85kerman (100.0%)
+Prediction #1:  Adrienne_Frantz (0.0%)
+Prediction #2:  Tamara_Beckwith (0.0%)
+
+Iteration #120
+Loss: 45.229485
+Prediction #0:  Malin_\xc3\x85kerman (100.0%)
+Prediction #1:  Adrienne_Frantz (0.0%)
+Prediction #2:  Tamara_Beckwith (0.0%)
+
+Iteration #125
+Loss: 46.294693
+Prediction #0:  Malin_\xc3\x85kerman (100.0%)
+Prediction #1:  Adrienne_Frantz (0.0%)
+Prediction #2:  Tamara_Beckwith (0.0%)
+
+Iteration #130
+Loss: 47.283035
+Prediction #0:  Malin_\xc3\x85kerman (100.0%)
+Prediction #1:  Adrienne_Frantz (0.0%)
+Prediction #2:  Tamara_Beckwith (0.0%)
+
+Iteration #135
+Loss: 48.263092
+Prediction #0:  Malin_\xc3\x85kerman (100.0%)
+Prediction #1:  Tamara_Beckwith (0.0%)
+Prediction #2:  Adrienne_Frantz (0.0%)
+
+Iteration #140
+Loss: 49.151855
+Prediction #0:  Malin_\xc3\x85kerman (100.0%)
+Prediction #1:  Adrienne_Frantz (0.0%)
+Prediction #2:  Tamara_Beckwith (0.0%)
+
+Iteration #145
+Loss: 50.097847
+Prediction #0:  Malin_\xc3\x85kerman (100.0%)
+Prediction #1:  Tamara_Beckwith (0.0%)
+Prediction #2:  Cristie_Kerr (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Malin_\xc3\x85kerman (100.0%)
+Prediction #1:  Tamara_Beckwith (0.0%)
+Prediction #2:  Adrienne_Frantz (0.0%)
+

@@ -1,0 +1,191 @@
+*****NEW LOG STARTED
+Time: 2024-02-15 02:01:04.851112
+Loss Model: SCC
+Original person & class:  Patti_LaBelle (6341)
+
+Iteration #0
+Loss: 0.055785432
+Prediction #0:  Patti_LaBelle (94.57%)
+Prediction #1:  Loni_Love (0.73%)
+Prediction #2:  Jujubee (0.42%)
+
+Iteration #5
+Loss: 2.332784
+Prediction #0:  Jujubee (10.77%)
+Prediction #1:  Patti_LaBelle (9.7%)
+Prediction #2:  Mew_Azama (7.82%)
+
+Iteration #10
+Loss: 6.2230034
+Prediction #0:  Mew_Azama (31.91%)
+Prediction #1:  Eri_Kamei (4.98%)
+Prediction #2:  Jujubee (4.54%)
+
+Iteration #15
+Loss: 9.932455
+Prediction #0:  Mew_Azama (80.85%)
+Prediction #1:  Liu_Yan (2.09%)
+Prediction #2:  Eri_Kamei (1.53%)
+
+Iteration #20
+Loss: 13.83922
+Prediction #0:  Mew_Azama (98.22%)
+Prediction #1:  Yuri_Ebihara (0.24%)
+Prediction #2:  Liu_Yan (0.23%)
+
+Iteration #25
+Loss: 17.275723
+Prediction #0:  Mew_Azama (99.82%)
+Prediction #1:  Yuri_Ebihara (0.04%)
+Prediction #2:  Liu_Yan (0.02%)
+
+Iteration #30
+Loss: 20.060345
+Prediction #0:  Mew_Azama (99.97%)
+Prediction #1:  Yuri_Ebihara (0.01%)
+Prediction #2:  Kang_Ji-young (0.0%)
+
+Iteration #35
+Loss: 22.516827
+Prediction #0:  Mew_Azama (99.99%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #40
+Loss: 24.569307
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #45
+Loss: 26.234291
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #50
+Loss: 27.526062
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #55
+Loss: 28.736519
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #60
+Loss: 29.792786
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #65
+Loss: 30.701546
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #70
+Loss: 31.562374
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #75
+Loss: 32.424465
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #80
+Loss: 33.149734
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #85
+Loss: 33.858425
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #90
+Loss: 34.54495
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #95
+Loss: 35.213055
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #100
+Loss: 35.86928
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #105
+Loss: 36.55715
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #110
+Loss: 37.17882
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #115
+Loss: 37.793934
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #120
+Loss: 38.336803
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #125
+Loss: 38.824837
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  Keiko_Kitagawa (0.0%)
+
+Iteration #130
+Loss: 39.32879
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  \xe7\xa5\x9e\xe6\x88\xb8\xe8\x98\xad\xe5\xad\x90 (0.0%)
+
+Iteration #135
+Loss: 39.807266
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  Keiko_Kitagawa (0.0%)
+
+Iteration #140
+Loss: 40.27912
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  Keiko_Kitagawa (0.0%)
+
+Iteration #145
+Loss: 40.726967
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  Keiko_Kitagawa (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Mew_Azama (100.0%)
+Prediction #1:  Yuri_Ebihara (0.0%)
+Prediction #2:  Keiko_Kitagawa (0.0%)
+

@@ -1,0 +1,192 @@
+*****NEW LOG STARTED
+Time: 2024-02-15 15:31:45.101436
+Loss Model: SCC
+Original person & class:  Nick_Jonas (6010)
+Target person & class: Pia_Haraldsen (6510)
+
+Iteration #0
+Loss: -8.412254
+Prediction #0:  Nick_Jonas (24.89%)
+Prediction #1:  Saphir_Ta\xc3\xafder (4.35%)
+Prediction #2:  Kieza (3.58%)
+
+Iteration #5
+Loss: -2.8088841
+Prediction #0:  Kieza (5.28%)
+Prediction #1:  Daniele_Bonera (2.55%)
+Prediction #2:  Eden_Hazard (1.79%)
+
+Iteration #10
+Loss: 1.8275285
+Prediction #0:  King_Kamali (1.72%)
+Prediction #1:  Hakan_\xc5\x9e\xc3\xbck\xc3\xbcr (1.48%)
+Prediction #2:  Derek_McInnes (1.21%)
+
+Iteration #15
+Loss: 5.393012
+Prediction #0:  Derek_McInnes (4.16%)
+Prediction #1:  Hakan_\xc5\x9e\xc3\xbck\xc3\xbcr (2.08%)
+Prediction #2:  Andrzej_Lepper (1.3%)
+
+Iteration #20
+Loss: 8.101966
+Prediction #0:  Derek_McInnes (9.07%)
+Prediction #1:  Llu\xc3\xads_Llach (5.04%)
+Prediction #2:  Andrzej_Lepper (2.76%)
+
+Iteration #25
+Loss: 10.317751
+Prediction #0:  Llu\xc3\xads_Llach (9.13%)
+Prediction #1:  Derek_McInnes (6.92%)
+Prediction #2:  Sunetra_Sarker (3.58%)
+
+Iteration #30
+Loss: 12.622429
+Prediction #0:  Llu\xc3\xads_Llach (12.59%)
+Prediction #1:  Derek_McInnes (9.53%)
+Prediction #2:  Sunetra_Sarker (8.47%)
+
+Iteration #35
+Loss: 14.705223
+Prediction #0:  Sunetra_Sarker (13.84%)
+Prediction #1:  Llu\xc3\xads_Llach (10.5%)
+Prediction #2:  Derek_McInnes (5.97%)
+
+Iteration #40
+Loss: 16.6061
+Prediction #0:  Sunetra_Sarker (20.04%)
+Prediction #1:  Pia_Haraldsen (11.02%)
+Prediction #2:  Llu\xc3\xads_Llach (10.12%)
+
+Iteration #45
+Loss: 18.302166
+Prediction #0:  Sunetra_Sarker (24.87%)
+Prediction #1:  Pia_Haraldsen (14.68%)
+Prediction #2:  Llu\xc3\xads_Llach (11.14%)
+
+Iteration #50
+Loss: 19.920696
+Prediction #0:  Sunetra_Sarker (31.42%)
+Prediction #1:  Pia_Haraldsen (20.9%)
+Prediction #2:  Llu\xc3\xads_Llach (9.94%)
+
+Iteration #55
+Loss: 21.4134
+Prediction #0:  Sunetra_Sarker (31.83%)
+Prediction #1:  Pia_Haraldsen (27.36%)
+Prediction #2:  Llu\xc3\xads_Llach (9.14%)
+
+Iteration #60
+Loss: 22.765368
+Prediction #0:  Pia_Haraldsen (38.78%)
+Prediction #1:  Sunetra_Sarker (32.88%)
+Prediction #2:  Llu\xc3\xads_Llach (7.0%)
+
+Iteration #65
+Loss: 24.057682
+Prediction #0:  Pia_Haraldsen (43.95%)
+Prediction #1:  Sunetra_Sarker (33.79%)
+Prediction #2:  Llu\xc3\xads_Llach (5.92%)
+
+Iteration #70
+Loss: 25.365477
+Prediction #0:  Pia_Haraldsen (59.93%)
+Prediction #1:  Sunetra_Sarker (27.84%)
+Prediction #2:  Llu\xc3\xads_Llach (2.66%)
+
+Iteration #75
+Loss: 26.707417
+Prediction #0:  Pia_Haraldsen (76.3%)
+Prediction #1:  Sunetra_Sarker (17.57%)
+Prediction #2:  Giampiero_Ventura (1.31%)
+
+Iteration #80
+Loss: 28.254007
+Prediction #0:  Pia_Haraldsen (90.84%)
+Prediction #1:  Sunetra_Sarker (7.08%)
+Prediction #2:  Giampiero_Ventura (0.5%)
+
+Iteration #85
+Loss: 29.835224
+Prediction #0:  Pia_Haraldsen (96.55%)
+Prediction #1:  Sunetra_Sarker (2.82%)
+Prediction #2:  Giampiero_Ventura (0.17%)
+
+Iteration #90
+Loss: 31.542007
+Prediction #0:  Pia_Haraldsen (99.46%)
+Prediction #1:  Sunetra_Sarker (0.43%)
+Prediction #2:  Giampiero_Ventura (0.01%)
+
+Iteration #95
+Loss: 33.463985
+Prediction #0:  Pia_Haraldsen (99.89%)
+Prediction #1:  Sunetra_Sarker (0.08%)
+Prediction #2:  Carol_McGiffin (0.01%)
+
+Iteration #100
+Loss: 35.603336
+Prediction #0:  Pia_Haraldsen (99.99%)
+Prediction #1:  Sunetra_Sarker (0.0%)
+Prediction #2:  Carol_McGiffin (0.0%)
+
+Iteration #105
+Loss: 37.78309
+Prediction #0:  Pia_Haraldsen (100.0%)
+Prediction #1:  Carol_McGiffin (0.0%)
+Prediction #2:  Martina_Voss-Tecklenburg (0.0%)
+
+Iteration #110
+Loss: 40.04309
+Prediction #0:  Pia_Haraldsen (100.0%)
+Prediction #1:  Carol_McGiffin (0.0%)
+Prediction #2:  Martina_Voss-Tecklenburg (0.0%)
+
+Iteration #115
+Loss: 42.164944
+Prediction #0:  Pia_Haraldsen (100.0%)
+Prediction #1:  Martina_Voss-Tecklenburg (0.0%)
+Prediction #2:  Carol_McGiffin (0.0%)
+
+Iteration #120
+Loss: 44.127495
+Prediction #0:  Pia_Haraldsen (100.0%)
+Prediction #1:  Karrie_Webb (0.0%)
+Prediction #2:  Martina_Voss-Tecklenburg (0.0%)
+
+Iteration #125
+Loss: 45.703033
+Prediction #0:  Pia_Haraldsen (100.0%)
+Prediction #1:  Martina_Voss-Tecklenburg (0.0%)
+Prediction #2:  Karrie_Webb (0.0%)
+
+Iteration #130
+Loss: 47.233337
+Prediction #0:  Pia_Haraldsen (100.0%)
+Prediction #1:  Karrie_Webb (0.0%)
+Prediction #2:  Carol_McGiffin (0.0%)
+
+Iteration #135
+Loss: 48.80388
+Prediction #0:  Pia_Haraldsen (100.0%)
+Prediction #1:  Martina_Voss-Tecklenburg (0.0%)
+Prediction #2:  Karrie_Webb (0.0%)
+
+Iteration #140
+Loss: 50.199383
+Prediction #0:  Pia_Haraldsen (100.0%)
+Prediction #1:  Karrie_Webb (0.0%)
+Prediction #2:  Martina_Voss-Tecklenburg (0.0%)
+
+Iteration #145
+Loss: 51.547913
+Prediction #0:  Pia_Haraldsen (100.0%)
+Prediction #1:  Martina_Voss-Tecklenburg (0.0%)
+Prediction #2:  Karrie_Webb (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Pia_Haraldsen (100.0%)
+Prediction #1:  Karrie_Webb (0.0%)
+Prediction #2:  Martina_Voss-Tecklenburg (0.0%)
+

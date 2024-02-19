@@ -1,0 +1,191 @@
+*****NEW LOG STARTED
+Time: 2024-02-15 01:20:48.328940
+Loss Model: SCC
+Original person & class:  Elizabeth_Vargas (2308)
+
+Iteration #0
+Loss: 0.296677
+Prediction #0:  Elizabeth_Vargas (74.33%)
+Prediction #1:  Andrea_McLean (3.97%)
+Prediction #2:  Koncz_Zsuzsa (1.86%)
+
+Iteration #5
+Loss: 4.586083
+Prediction #0:  Julieta_D\xc3\xadaz (39.9%)
+Prediction #1:  Song\xc3\xbcl_\xc3\x96den (4.94%)
+Prediction #2:  Maite_Embil (4.48%)
+
+Iteration #10
+Loss: 10.282348
+Prediction #0:  Julieta_D\xc3\xadaz (90.39%)
+Prediction #1:  Song\xc3\xbcl_\xc3\x96den (2.31%)
+Prediction #2:  Maite_Embil (1.24%)
+
+Iteration #15
+Loss: 15.44199
+Prediction #0:  Julieta_D\xc3\xadaz (99.46%)
+Prediction #1:  Song\xc3\xbcl_\xc3\x96den (0.17%)
+Prediction #2:  Maite_Embil (0.04%)
+
+Iteration #20
+Loss: 19.670807
+Prediction #0:  Julieta_D\xc3\xadaz (99.96%)
+Prediction #1:  Song\xc3\xbcl_\xc3\x96den (0.01%)
+Prediction #2:  Melanie_Olivares (0.0%)
+
+Iteration #25
+Loss: 23.333624
+Prediction #0:  Julieta_D\xc3\xadaz (99.99%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Song\xc3\xbcl_\xc3\x96den (0.0%)
+
+Iteration #30
+Loss: 26.35331
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Melanie_Olivares (0.0%)
+
+Iteration #35
+Loss: 29.143524
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Melanie_Olivares (0.0%)
+
+Iteration #40
+Loss: 31.778599
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Melanie_Olivares (0.0%)
+
+Iteration #45
+Loss: 34.003227
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Melanie_Olivares (0.0%)
+
+Iteration #50
+Loss: 35.920364
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Val\xc3\xa9rie_B\xc3\xa8gue (0.0%)
+
+Iteration #55
+Loss: 37.64994
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Val\xc3\xa9rie_B\xc3\xa8gue (0.0%)
+
+Iteration #60
+Loss: 39.1771
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Val\xc3\xa9rie_B\xc3\xa8gue (0.0%)
+
+Iteration #65
+Loss: 40.561985
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Val\xc3\xa9rie_B\xc3\xa8gue (0.0%)
+
+Iteration #70
+Loss: 41.88921
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Val\xc3\xa9rie_B\xc3\xa8gue (0.0%)
+
+Iteration #75
+Loss: 43.05179
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Val\xc3\xa9rie_B\xc3\xa8gue (0.0%)
+
+Iteration #80
+Loss: 44.22723
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Val\xc3\xa9rie_B\xc3\xa8gue (0.0%)
+
+Iteration #85
+Loss: 45.431374
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Val\xc3\xa9rie_B\xc3\xa8gue (0.0%)
+
+Iteration #90
+Loss: 46.64037
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Val\xc3\xa9rie_B\xc3\xa8gue (0.0%)
+
+Iteration #95
+Loss: 47.914265
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Val\xc3\xa9rie_B\xc3\xa8gue (0.0%)
+
+Iteration #100
+Loss: 49.174046
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Tia_Bajpai (0.0%)
+
+Iteration #105
+Loss: 50.39863
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Val\xc3\xa9rie_B\xc3\xa8gue (0.0%)
+
+Iteration #110
+Loss: 51.56067
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Val\xc3\xa9rie_B\xc3\xa8gue (0.0%)
+
+Iteration #115
+Loss: 52.595535
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Tulip_Joshi (0.0%)
+
+Iteration #120
+Loss: 53.594364
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Tulip_Joshi (0.0%)
+
+Iteration #125
+Loss: 54.49292
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Tulip_Joshi (0.0%)
+
+Iteration #130
+Loss: 55.38574
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Tulip_Joshi (0.0%)
+
+Iteration #135
+Loss: 56.272488
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Tulip_Joshi (0.0%)
+
+Iteration #140
+Loss: 57.06797
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Val\xc3\xa9rie_B\xc3\xa8gue (0.0%)
+
+Iteration #145
+Loss: 57.901768
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Tulip_Joshi (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Julieta_D\xc3\xadaz (100.0%)
+Prediction #1:  Jennifer_Kotwal (0.0%)
+Prediction #2:  Val\xc3\xa9rie_B\xc3\xa8gue (0.0%)
+

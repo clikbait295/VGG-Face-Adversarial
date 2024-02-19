@@ -1,0 +1,192 @@
+*****NEW LOG STARTED
+Time: 2024-02-15 02:35:14.221453
+Loss Model: SCC
+Original person & class:  A._J._Buckley (2)
+Target person & class: Andrew_Trimble (502)
+
+Iteration #0
+Loss: -17.851852
+Prediction #0:  A._J._Buckley (87.87%)
+Prediction #1:  Chris_Hardwick (2.2%)
+Prediction #2:  Vince_Gill (0.76%)
+
+Iteration #5
+Loss: -11.067341
+Prediction #0:  Chris_Hardwick (11.15%)
+Prediction #1:  A._J._Buckley (8.41%)
+Prediction #2:  Michael_Voltaggio (3.91%)
+
+Iteration #10
+Loss: -4.873677
+Prediction #0:  Sheamus (8.17%)
+Prediction #1:  Eric_Lindell (4.2%)
+Prediction #2:  Michael_Voltaggio (3.89%)
+
+Iteration #15
+Loss: 0.9319086
+Prediction #0:  Sheamus (22.49%)
+Prediction #1:  Jon_Montgomery (10.21%)
+Prediction #2:  Shkodran_Mustafi (3.59%)
+
+Iteration #20
+Loss: 5.498746
+Prediction #0:  Sheamus (24.44%)
+Prediction #1:  Jon_Montgomery (13.21%)
+Prediction #2:  Shkodran_Mustafi (7.17%)
+
+Iteration #25
+Loss: 9.048895
+Prediction #0:  Sheamus (15.46%)
+Prediction #1:  Jon_Montgomery (13.78%)
+Prediction #2:  Shkodran_Mustafi (9.88%)
+
+Iteration #30
+Loss: 12.150151
+Prediction #0:  Jon_Montgomery (12.26%)
+Prediction #1:  Shane_Carwin (9.21%)
+Prediction #2:  Shkodran_Mustafi (8.1%)
+
+Iteration #35
+Loss: 15.013528
+Prediction #0:  Andrew_Trimble (15.47%)
+Prediction #1:  Shane_Carwin (9.23%)
+Prediction #2:  Shkodran_Mustafi (5.96%)
+
+Iteration #40
+Loss: 17.944548
+Prediction #0:  Andrew_Trimble (65.77%)
+Prediction #1:  Shane_Carwin (3.36%)
+Prediction #2:  J._J._Watt (2.16%)
+
+Iteration #45
+Loss: 20.836294
+Prediction #0:  Andrew_Trimble (94.5%)
+Prediction #1:  Shane_Carwin (0.35%)
+Prediction #2:  J._J._Watt (0.35%)
+
+Iteration #50
+Loss: 23.713186
+Prediction #0:  Andrew_Trimble (99.17%)
+Prediction #1:  David_Coulthard (0.04%)
+Prediction #2:  Daniel_Gimeno-Traver (0.04%)
+
+Iteration #55
+Loss: 26.504974
+Prediction #0:  Andrew_Trimble (99.84%)
+Prediction #1:  Yann_Sommer (0.01%)
+Prediction #2:  Daniel_Gimeno-Traver (0.01%)
+
+Iteration #60
+Loss: 28.932463
+Prediction #0:  Andrew_Trimble (99.96%)
+Prediction #1:  Yann_Sommer (0.01%)
+Prediction #2:  Daniel_Gimeno-Traver (0.0%)
+
+Iteration #65
+Loss: 31.013294
+Prediction #0:  Andrew_Trimble (99.99%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  Daniel_Gimeno-Traver (0.0%)
+
+Iteration #70
+Loss: 32.808914
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #75
+Loss: 34.412643
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #80
+Loss: 35.929386
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #85
+Loss: 37.312325
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #90
+Loss: 38.456455
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #95
+Loss: 39.51954
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #100
+Loss: 40.48774
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #105
+Loss: 41.52824
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #110
+Loss: 42.444256
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #115
+Loss: 43.398567
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #120
+Loss: 44.393986
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #125
+Loss: 45.38913
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #130
+Loss: 46.29971
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #135
+Loss: 47.280254
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #140
+Loss: 48.252575
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #145
+Loss: 49.293034
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Andrew_Trimble (100.0%)
+Prediction #1:  Yann_Sommer (0.0%)
+Prediction #2:  David_Coulthard (0.0%)
+

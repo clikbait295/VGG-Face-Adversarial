@@ -1,0 +1,191 @@
+*****NEW LOG STARTED
+Time: 2024-02-13 17:27:23.625107
+Loss Model: SCC
+Original person & class:  A._R._Rahman (4)
+
+Iteration #0
+Loss: 0.4825207
+Prediction #0:  A._R._Rahman (61.72%)
+Prediction #1:  R._Madhavan (2.86%)
+Prediction #2:  Guillaume_de_Tonqu\xc3\xa9dec (2.53%)
+
+Iteration #5
+Loss: 4.715769
+Prediction #0:  Jose_Antonio_Vargas (4.61%)
+Prediction #1:  Clemente_Mastella (3.47%)
+Prediction #2:  Emeril_Lagasse (2.2%)
+
+Iteration #10
+Loss: 9.378021
+Prediction #0:  Try_Sutrisno (5.62%)
+Prediction #1:  Ma_Ying-jeou (4.82%)
+Prediction #2:  Russell_Means (4.28%)
+
+Iteration #15
+Loss: 13.1268635
+Prediction #0:  Ma_Ying-jeou (16.64%)
+Prediction #1:  Try_Sutrisno (7.74%)
+Prediction #2:  Ichir\xc5\x8d_Ozawa (7.35%)
+
+Iteration #20
+Loss: 16.784037
+Prediction #0:  Ma_Ying-jeou (37.02%)
+Prediction #1:  Ichir\xc5\x8d_Ozawa (23.25%)
+Prediction #2:  Garchen_Rinpoche (9.92%)
+
+Iteration #25
+Loss: 20.970821
+Prediction #0:  Ichir\xc5\x8d_Ozawa (49.78%)
+Prediction #1:  Ma_Ying-jeou (39.99%)
+Prediction #2:  Garchen_Rinpoche (5.56%)
+
+Iteration #30
+Loss: 25.857
+Prediction #0:  Ichir\xc5\x8d_Ozawa (89.5%)
+Prediction #1:  Ma_Ying-jeou (8.87%)
+Prediction #2:  Garchen_Rinpoche (1.18%)
+
+Iteration #35
+Loss: 31.508215
+Prediction #0:  Ichir\xc5\x8d_Ozawa (99.56%)
+Prediction #1:  Ma_Ying-jeou (0.33%)
+Prediction #2:  Garchen_Rinpoche (0.09%)
+
+Iteration #40
+Loss: 36.631516
+Prediction #0:  Ichir\xc5\x8d_Ozawa (99.97%)
+Prediction #1:  Ma_Ying-jeou (0.02%)
+Prediction #2:  Garchen_Rinpoche (0.01%)
+
+Iteration #45
+Loss: 41.088516
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Ma_Ying-jeou (0.0%)
+Prediction #2:  Garchen_Rinpoche (0.0%)
+
+Iteration #50
+Loss: 45.25886
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Ma_Ying-jeou (0.0%)
+Prediction #2:  Garchen_Rinpoche (0.0%)
+
+Iteration #55
+Loss: 49.58181
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Ma_Ying-jeou (0.0%)
+
+Iteration #60
+Loss: 53.206356
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Ma_Ying-jeou (0.0%)
+
+Iteration #65
+Loss: 56.413303
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #70
+Loss: 59.376595
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #75
+Loss: 62.11547
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #80
+Loss: 64.68096
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #85
+Loss: 66.889084
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #90
+Loss: 69.151184
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #95
+Loss: 71.20718
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #100
+Loss: 73.37767
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #105
+Loss: 75.46213
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #110
+Loss: 77.51112
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #115
+Loss: 79.678406
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #120
+Loss: 81.63468
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #125
+Loss: 83.56795
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #130
+Loss: 85.63054
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #135
+Loss: 87.65447
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #140
+Loss: 89.74681
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #145
+Loss: 91.72852
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Ichir\xc5\x8d_Ozawa (100.0%)
+Prediction #1:  Garchen_Rinpoche (0.0%)
+Prediction #2:  Yoshihiko_Noda (0.0%)
+

@@ -1,0 +1,192 @@
+*****NEW LOG STARTED
+Time: 2024-02-15 15:27:38.840213
+Loss Model: SCC
+Original person & class:  Moussa_Sow (5794)
+Target person & class: Park_Si-yeon (6294)
+
+Iteration #0
+Loss: -19.502357
+Prediction #0:  Moussa_Sow (97.81%)
+Prediction #1:  LaShawn_Merritt (0.18%)
+Prediction #2:  Russell_Westbrook (0.12%)
+
+Iteration #5
+Loss: -12.223948
+Prediction #0:  Moussa_Sow (15.67%)
+Prediction #1:  Victor_Moses (6.26%)
+Prediction #2:  Russell_Westbrook (5.48%)
+
+Iteration #10
+Loss: -5.5527716
+Prediction #0:  Qaasim_Middleton (10.71%)
+Prediction #1:  Victor_Moses (7.12%)
+Prediction #2:  Edgar_Davids (1.99%)
+
+Iteration #15
+Loss: -0.33366108
+Prediction #0:  Qaasim_Middleton (7.58%)
+Prediction #1:  Gerald_Asamoah (5.02%)
+Prediction #2:  A._R._Rahman (2.88%)
+
+Iteration #20
+Loss: 3.5966434
+Prediction #0:  A._R._Rahman (7.7%)
+Prediction #1:  Gerald_Asamoah (3.49%)
+Prediction #2:  Qaasim_Middleton (3.22%)
+
+Iteration #25
+Loss: 7.159152
+Prediction #0:  A._R._Rahman (9.43%)
+Prediction #1:  Ambrose_Akinmusire (1.92%)
+Prediction #2:  Stephen_Mulhern (1.58%)
+
+Iteration #30
+Loss: 10.3853855
+Prediction #0:  A._R._Rahman (8.86%)
+Prediction #1:  Laurence_Fishburne (1.71%)
+Prediction #2:  Hayden_Kho (1.52%)
+
+Iteration #35
+Loss: 13.249741
+Prediction #0:  Park_Si-yeon (7.17%)
+Prediction #1:  A._R._Rahman (4.63%)
+Prediction #2:  Daymond_John (3.55%)
+
+Iteration #40
+Loss: 15.812038
+Prediction #0:  Park_Si-yeon (24.17%)
+Prediction #1:  Daymond_John (6.22%)
+Prediction #2:  Terence_Howard (5.6%)
+
+Iteration #45
+Loss: 18.158848
+Prediction #0:  Park_Si-yeon (49.29%)
+Prediction #1:  Daymond_John (7.47%)
+Prediction #2:  Terence_Howard (7.46%)
+
+Iteration #50
+Loss: 20.393742
+Prediction #0:  Park_Si-yeon (74.08%)
+Prediction #1:  Terence_Howard (4.9%)
+Prediction #2:  Daymond_John (3.68%)
+
+Iteration #55
+Loss: 22.687046
+Prediction #0:  Park_Si-yeon (93.21%)
+Prediction #1:  Adamari_L\xc3\xb3pez (1.26%)
+Prediction #2:  Terence_Howard (1.07%)
+
+Iteration #60
+Loss: 25.915123
+Prediction #0:  Park_Si-yeon (99.61%)
+Prediction #1:  Adamari_L\xc3\xb3pez (0.13%)
+Prediction #2:  Freja_Beha_Erichsen (0.05%)
+
+Iteration #65
+Loss: 29.143642
+Prediction #0:  Park_Si-yeon (99.97%)
+Prediction #1:  Adamari_L\xc3\xb3pez (0.01%)
+Prediction #2:  Freja_Beha_Erichsen (0.0%)
+
+Iteration #70
+Loss: 31.83006
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Adamari_L\xc3\xb3pez (0.0%)
+
+Iteration #75
+Loss: 33.961315
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Adamari_L\xc3\xb3pez (0.0%)
+
+Iteration #80
+Loss: 35.7689
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Adamari_L\xc3\xb3pez (0.0%)
+
+Iteration #85
+Loss: 37.506493
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Jewel_Mische (0.0%)
+
+Iteration #90
+Loss: 39.200005
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Adamari_L\xc3\xb3pez (0.0%)
+
+Iteration #95
+Loss: 40.748173
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Jewel_Mische (0.0%)
+
+Iteration #100
+Loss: 42.08084
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  F\xc3\xa1tima_Ptacek (0.0%)
+
+Iteration #105
+Loss: 43.325836
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Jewel_Mische (0.0%)
+
+Iteration #110
+Loss: 44.400597
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Jewel_Mische (0.0%)
+
+Iteration #115
+Loss: 45.45658
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Jewel_Mische (0.0%)
+
+Iteration #120
+Loss: 46.437912
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Jewel_Mische (0.0%)
+
+Iteration #125
+Loss: 47.4562
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Jewel_Mische (0.0%)
+
+Iteration #130
+Loss: 48.406605
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Jewel_Mische (0.0%)
+
+Iteration #135
+Loss: 49.360626
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Jewel_Mische (0.0%)
+
+Iteration #140
+Loss: 50.327244
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Jewel_Mische (0.0%)
+
+Iteration #145
+Loss: 51.29054
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Jewel_Mische (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Park_Si-yeon (100.0%)
+Prediction #1:  Vivian_Hsu (0.0%)
+Prediction #2:  Jewel_Mische (0.0%)
+

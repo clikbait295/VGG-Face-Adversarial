@@ -1,0 +1,382 @@
+*****NEW LOG STARTED
+Time: 2024-02-19 17:18:52.140780
+Loss Model: SCC
+Original person & class:  Dwayne_Johnson (2168)
+
+Iteration #0
+Loss: 0.030236995
+Prediction #0:  Dwayne_Johnson (97.02%)
+Prediction #1:  Georges_St-Pierre (0.53%)
+Prediction #2:  Sergio_Parisse (0.26%)
+
+Iteration #5
+Loss: 3.8383002
+Prediction #0:  Heiner_Lauterbach (46.4%)
+Prediction #1:  Sergio_Parisse (3.95%)
+Prediction #2:  Gilbert_Gottfried (3.01%)
+
+Iteration #10
+Loss: 11.529984
+Prediction #0:  Heiner_Lauterbach (92.65%)
+Prediction #1:  Gilbert_Gottfried (1.41%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (1.27%)
+
+Iteration #15
+Loss: 16.609829
+Prediction #0:  Heiner_Lauterbach (99.02%)
+Prediction #1:  Gilbert_Gottfried (0.23%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.23%)
+
+Iteration #20
+Loss: 20.66679
+Prediction #0:  Heiner_Lauterbach (99.87%)
+Prediction #1:  Gilbert_Gottfried (0.05%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.02%)
+
+Iteration #25
+Loss: 23.996126
+Prediction #0:  Heiner_Lauterbach (99.98%)
+Prediction #1:  Gilbert_Gottfried (0.01%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #30
+Loss: 26.885199
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Gilbert_Gottfried (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #35
+Loss: 29.49898
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Gilbert_Gottfried (0.0%)
+
+Iteration #40
+Loss: 32.27926
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.0%)
+
+Iteration #45
+Loss: 34.800217
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.0%)
+
+Iteration #50
+Loss: 37.142025
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.0%)
+
+Iteration #55
+Loss: 39.41338
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.0%)
+
+Iteration #60
+Loss: 41.373672
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.0%)
+
+Iteration #65
+Loss: 43.055187
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.0%)
+
+Iteration #70
+Loss: 44.64104
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ron_Paul (0.0%)
+
+Iteration #75
+Loss: 45.921013
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Richard_Bruton (0.0%)
+
+Iteration #80
+Loss: 47.19039
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ron_Paul (0.0%)
+
+Iteration #85
+Loss: 48.32213
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Richard_Bruton (0.0%)
+
+Iteration #90
+Loss: 49.431503
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ron_Paul (0.0%)
+
+Iteration #95
+Loss: 50.507114
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ron_Paul (0.0%)
+
+Iteration #100
+Loss: 51.555115
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #105
+Loss: 52.481018
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ron_Paul (0.0%)
+
+Iteration #110
+Loss: 53.368683
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #115
+Loss: 54.22966
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ron_Paul (0.0%)
+
+Iteration #120
+Loss: 55.035027
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #125
+Loss: 55.731773
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ron_Paul (0.0%)
+
+Iteration #130
+Loss: 56.38481
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #135
+Loss: 57.002567
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #140
+Loss: 57.607018
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #145
+Loss: 58.17084
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Richard_Bruton (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+*****NEW LOG STARTED
+Time: 2024-02-19 17:30:14.557269
+Loss Model: SCC
+Original person & class:  Dwayne_Johnson (2168)
+
+Iteration #0
+Loss: 0.030236995
+Prediction #0:  Dwayne_Johnson (97.02%)
+Prediction #1:  Georges_St-Pierre (0.53%)
+Prediction #2:  Sergio_Parisse (0.26%)
+
+Iteration #5
+Loss: 3.8383002
+Prediction #0:  Heiner_Lauterbach (46.4%)
+Prediction #1:  Sergio_Parisse (3.95%)
+Prediction #2:  Gilbert_Gottfried (3.01%)
+
+Iteration #10
+Loss: 11.529984
+Prediction #0:  Heiner_Lauterbach (92.65%)
+Prediction #1:  Gilbert_Gottfried (1.41%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (1.27%)
+
+Iteration #15
+Loss: 16.609829
+Prediction #0:  Heiner_Lauterbach (99.02%)
+Prediction #1:  Gilbert_Gottfried (0.23%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.23%)
+
+Iteration #20
+Loss: 20.66679
+Prediction #0:  Heiner_Lauterbach (99.87%)
+Prediction #1:  Gilbert_Gottfried (0.05%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.02%)
+
+Iteration #25
+Loss: 23.996126
+Prediction #0:  Heiner_Lauterbach (99.98%)
+Prediction #1:  Gilbert_Gottfried (0.01%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #30
+Loss: 26.885199
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Gilbert_Gottfried (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #35
+Loss: 29.49898
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Gilbert_Gottfried (0.0%)
+
+Iteration #40
+Loss: 32.27926
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.0%)
+
+Iteration #45
+Loss: 34.800217
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.0%)
+
+Iteration #50
+Loss: 37.142025
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.0%)
+
+Iteration #55
+Loss: 39.41338
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.0%)
+
+Iteration #60
+Loss: 41.373672
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.0%)
+
+Iteration #65
+Loss: 43.055187
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ra\xc3\xbal_Zaffaroni (0.0%)
+
+Iteration #70
+Loss: 44.64104
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ron_Paul (0.0%)
+
+Iteration #75
+Loss: 45.921013
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Richard_Bruton (0.0%)
+
+Iteration #80
+Loss: 47.19039
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ron_Paul (0.0%)
+
+Iteration #85
+Loss: 48.32213
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Richard_Bruton (0.0%)
+
+Iteration #90
+Loss: 49.431503
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ron_Paul (0.0%)
+
+Iteration #95
+Loss: 50.507114
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ron_Paul (0.0%)
+
+Iteration #100
+Loss: 51.555115
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #105
+Loss: 52.481018
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ron_Paul (0.0%)
+
+Iteration #110
+Loss: 53.368683
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #115
+Loss: 54.22966
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ron_Paul (0.0%)
+
+Iteration #120
+Loss: 55.035027
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #125
+Loss: 55.731773
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Ron_Paul (0.0%)
+
+Iteration #130
+Loss: 56.38481
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #135
+Loss: 57.002567
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #140
+Loss: 57.607018
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #145
+Loss: 58.17084
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Richard_Bruton (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Heiner_Lauterbach (100.0%)
+Prediction #1:  Ron_Paul (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+

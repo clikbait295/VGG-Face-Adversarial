@@ -1,0 +1,191 @@
+*****NEW LOG STARTED
+Time: 2024-02-15 01:36:10.243032
+Loss Model: SCC
+Original person & class:  Moussa_Sow (5794)
+
+Iteration #0
+Loss: 0.02210945
+Prediction #0:  Moussa_Sow (97.81%)
+Prediction #1:  LaShawn_Merritt (0.18%)
+Prediction #2:  Russell_Westbrook (0.12%)
+
+Iteration #5
+Loss: 2.790998
+Prediction #0:  Victor_Moses (7.08%)
+Prediction #1:  Antoine_Walker (6.75%)
+Prediction #2:  Moussa_Sow (6.14%)
+
+Iteration #10
+Loss: 8.256971
+Prediction #0:  T._J._Holmes (16.01%)
+Prediction #1:  Victor_Moses (7.1%)
+Prediction #2:  Qaasim_Middleton (6.87%)
+
+Iteration #15
+Loss: 12.914145
+Prediction #0:  T._J._Holmes (34.39%)
+Prediction #1:  Charley_Pride (7.0%)
+Prediction #2:  Al_Jarreau (6.24%)
+
+Iteration #20
+Loss: 16.61995
+Prediction #0:  T._J._Holmes (81.7%)
+Prediction #1:  Al_Jarreau (2.48%)
+Prediction #2:  Mario_Van_Peebles (2.2%)
+
+Iteration #25
+Loss: 20.260569
+Prediction #0:  T._J._Holmes (98.99%)
+Prediction #1:  Al_Jarreau (0.13%)
+Prediction #2:  Mario_Van_Peebles (0.12%)
+
+Iteration #30
+Loss: 23.391792
+Prediction #0:  T._J._Holmes (99.88%)
+Prediction #1:  Al_Jarreau (0.01%)
+Prediction #2:  Chris_Kattan (0.01%)
+
+Iteration #35
+Loss: 25.750141
+Prediction #0:  T._J._Holmes (99.98%)
+Prediction #1:  Chris_Kattan (0.0%)
+Prediction #2:  Al_Jarreau (0.0%)
+
+Iteration #40
+Loss: 27.673628
+Prediction #0:  T._J._Holmes (99.99%)
+Prediction #1:  Chris_Kattan (0.0%)
+Prediction #2:  Al_Jarreau (0.0%)
+
+Iteration #45
+Loss: 29.244743
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Chris_Kattan (0.0%)
+Prediction #2:  Al_Jarreau (0.0%)
+
+Iteration #50
+Loss: 30.690735
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Chris_Kattan (0.0%)
+Prediction #2:  Al_Jarreau (0.0%)
+
+Iteration #55
+Loss: 31.885664
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Chris_Kattan (0.0%)
+Prediction #2:  Al_Jarreau (0.0%)
+
+Iteration #60
+Loss: 32.90819
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Chris_Kattan (0.0%)
+Prediction #2:  Taryll_Jackson (0.0%)
+
+Iteration #65
+Loss: 33.83495
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Al_Jarreau (0.0%)
+Prediction #2:  Taryll_Jackson (0.0%)
+
+Iteration #70
+Loss: 34.739162
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Chris_Kattan (0.0%)
+Prediction #2:  Taryll_Jackson (0.0%)
+
+Iteration #75
+Loss: 35.517536
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Taryll_Jackson (0.0%)
+Prediction #2:  Al_Jarreau (0.0%)
+
+Iteration #80
+Loss: 36.331314
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Chris_Kattan (0.0%)
+Prediction #2:  Taryll_Jackson (0.0%)
+
+Iteration #85
+Loss: 37.055393
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Taryll_Jackson (0.0%)
+Prediction #2:  Al_Jarreau (0.0%)
+
+Iteration #90
+Loss: 37.855392
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Chris_Kattan (0.0%)
+Prediction #2:  Taryll_Jackson (0.0%)
+
+Iteration #95
+Loss: 38.5337
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Taryll_Jackson (0.0%)
+Prediction #2:  Al_Jarreau (0.0%)
+
+Iteration #100
+Loss: 39.22123
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Chris_Kattan (0.0%)
+Prediction #2:  Taryll_Jackson (0.0%)
+
+Iteration #105
+Loss: 39.85141
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Taryll_Jackson (0.0%)
+Prediction #2:  Chris_Kattan (0.0%)
+
+Iteration #110
+Loss: 40.455387
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Chris_Kattan (0.0%)
+Prediction #2:  Taryll_Jackson (0.0%)
+
+Iteration #115
+Loss: 41.040703
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Taryll_Jackson (0.0%)
+Prediction #2:  Mario_Van_Peebles (0.0%)
+
+Iteration #120
+Loss: 41.663673
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Taryll_Jackson (0.0%)
+Prediction #2:  Chris_Kattan (0.0%)
+
+Iteration #125
+Loss: 42.204033
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Taryll_Jackson (0.0%)
+Prediction #2:  Mario_Van_Peebles (0.0%)
+
+Iteration #130
+Loss: 42.790833
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Taryll_Jackson (0.0%)
+Prediction #2:  Mario_Van_Peebles (0.0%)
+
+Iteration #135
+Loss: 43.370884
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Taryll_Jackson (0.0%)
+Prediction #2:  Mario_Van_Peebles (0.0%)
+
+Iteration #140
+Loss: 43.93338
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Taryll_Jackson (0.0%)
+Prediction #2:  Chris_Kattan (0.0%)
+
+Iteration #145
+Loss: 44.498283
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Taryll_Jackson (0.0%)
+Prediction #2:  Mario_Van_Peebles (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  T._J._Holmes (100.0%)
+Prediction #1:  Chris_Kattan (0.0%)
+Prediction #2:  Taryll_Jackson (0.0%)
+

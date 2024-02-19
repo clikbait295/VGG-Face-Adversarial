@@ -1,0 +1,384 @@
+*****NEW LOG STARTED
+Time: 2024-02-15 03:19:14.372402
+Loss Model: SCC
+Original person & class:  Dwayne_Johnson (2168)
+Target person & class: Franciszek_Smuda (2668)
+
+Iteration #0
+Loss: -12.968813
+Prediction #0:  Dwayne_Johnson (97.02%)
+Prediction #1:  Georges_St-Pierre (0.53%)
+Prediction #2:  Sergio_Parisse (0.26%)
+
+Iteration #5
+Loss: -3.6806335
+Prediction #0:  Heiner_Lauterbach (29.78%)
+Prediction #1:  Dwayne_Johnson (5.88%)
+Prediction #2:  Sergio_Parisse (4.15%)
+
+Iteration #10
+Loss: 4.6072063
+Prediction #0:  Heiner_Lauterbach (35.89%)
+Prediction #1:  Ra\xc3\xbal_Zaffaroni (7.42%)
+Prediction #2:  Gilbert_Gottfried (4.2%)
+
+Iteration #15
+Loss: 10.532836
+Prediction #0:  Franciszek_Smuda (51.08%)
+Prediction #1:  Heiner_Lauterbach (9.51%)
+Prediction #2:  Karol_Strasburger (5.49%)
+
+Iteration #20
+Loss: 15.471936
+Prediction #0:  Franciszek_Smuda (94.86%)
+Prediction #1:  Karol_Strasburger (0.86%)
+Prediction #2:  Riccardo_Fogli (0.57%)
+
+Iteration #25
+Loss: 19.513702
+Prediction #0:  Franciszek_Smuda (99.6%)
+Prediction #1:  Karol_Strasburger (0.1%)
+Prediction #2:  Ron_Atkinson (0.03%)
+
+Iteration #30
+Loss: 23.023365
+Prediction #0:  Franciszek_Smuda (99.93%)
+Prediction #1:  Karol_Strasburger (0.02%)
+Prediction #2:  Ewald_Lienen (0.01%)
+
+Iteration #35
+Loss: 26.174356
+Prediction #0:  Franciszek_Smuda (99.99%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Clint_Hurdle (0.0%)
+
+Iteration #40
+Loss: 28.766983
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #45
+Loss: 31.064058
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #50
+Loss: 33.141754
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #55
+Loss: 34.748814
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Charlie_Musselwhite (0.0%)
+
+Iteration #60
+Loss: 36.39751
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jos\xc3\xa9_Bov\xc3\xa9 (0.0%)
+
+Iteration #65
+Loss: 37.79973
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jos\xc3\xa9_Bov\xc3\xa9 (0.0%)
+
+Iteration #70
+Loss: 39.18156
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jos\xc3\xa9_Bov\xc3\xa9 (0.0%)
+
+Iteration #75
+Loss: 40.368572
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #80
+Loss: 41.502785
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Ewald_Lienen (0.0%)
+
+Iteration #85
+Loss: 42.574875
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #90
+Loss: 43.7172
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #95
+Loss: 44.665493
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #100
+Loss: 45.768505
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #105
+Loss: 46.797
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #110
+Loss: 47.83362
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #115
+Loss: 48.687134
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #120
+Loss: 49.53025
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #125
+Loss: 50.34265
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #130
+Loss: 51.169563
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #135
+Loss: 51.985798
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Charlie_Musselwhite (0.0%)
+
+Iteration #140
+Loss: 52.768047
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #145
+Loss: 53.50763
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Charlie_Musselwhite (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+*****NEW LOG STARTED
+Time: 2024-02-19 17:40:13.151204
+Loss Model: SCC
+Original person & class:  Dwayne_Johnson (2168)
+Target person & class: Franciszek_Smuda (2668)
+
+Iteration #0
+Loss: -12.968813
+Prediction #0:  Dwayne_Johnson (97.02%)
+Prediction #1:  Georges_St-Pierre (0.53%)
+Prediction #2:  Sergio_Parisse (0.26%)
+
+Iteration #5
+Loss: -3.6806335
+Prediction #0:  Heiner_Lauterbach (29.78%)
+Prediction #1:  Dwayne_Johnson (5.88%)
+Prediction #2:  Sergio_Parisse (4.15%)
+
+Iteration #10
+Loss: 4.6072063
+Prediction #0:  Heiner_Lauterbach (35.89%)
+Prediction #1:  Ra\xc3\xbal_Zaffaroni (7.42%)
+Prediction #2:  Gilbert_Gottfried (4.2%)
+
+Iteration #15
+Loss: 10.532836
+Prediction #0:  Franciszek_Smuda (51.08%)
+Prediction #1:  Heiner_Lauterbach (9.51%)
+Prediction #2:  Karol_Strasburger (5.49%)
+
+Iteration #20
+Loss: 15.471936
+Prediction #0:  Franciszek_Smuda (94.86%)
+Prediction #1:  Karol_Strasburger (0.86%)
+Prediction #2:  Riccardo_Fogli (0.57%)
+
+Iteration #25
+Loss: 19.513702
+Prediction #0:  Franciszek_Smuda (99.6%)
+Prediction #1:  Karol_Strasburger (0.1%)
+Prediction #2:  Ron_Atkinson (0.03%)
+
+Iteration #30
+Loss: 23.023365
+Prediction #0:  Franciszek_Smuda (99.93%)
+Prediction #1:  Karol_Strasburger (0.02%)
+Prediction #2:  Ewald_Lienen (0.01%)
+
+Iteration #35
+Loss: 26.174356
+Prediction #0:  Franciszek_Smuda (99.99%)
+Prediction #1:  Karol_Strasburger (0.0%)
+Prediction #2:  Clint_Hurdle (0.0%)
+
+Iteration #40
+Loss: 28.766983
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #45
+Loss: 31.064058
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #50
+Loss: 33.141754
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Karol_Strasburger (0.0%)
+
+Iteration #55
+Loss: 34.748814
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Charlie_Musselwhite (0.0%)
+
+Iteration #60
+Loss: 36.39751
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jos\xc3\xa9_Bov\xc3\xa9 (0.0%)
+
+Iteration #65
+Loss: 37.79973
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jos\xc3\xa9_Bov\xc3\xa9 (0.0%)
+
+Iteration #70
+Loss: 39.18156
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jos\xc3\xa9_Bov\xc3\xa9 (0.0%)
+
+Iteration #75
+Loss: 40.368572
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #80
+Loss: 41.502785
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Ewald_Lienen (0.0%)
+
+Iteration #85
+Loss: 42.574875
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #90
+Loss: 43.7172
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #95
+Loss: 44.665493
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #100
+Loss: 45.768505
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #105
+Loss: 46.797
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #110
+Loss: 47.83362
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #115
+Loss: 48.687134
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #120
+Loss: 49.53025
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #125
+Loss: 50.34265
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #130
+Loss: 51.169563
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #135
+Loss: 51.985798
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Charlie_Musselwhite (0.0%)
+
+Iteration #140
+Loss: 52.768047
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+
+Iteration #145
+Loss: 53.50763
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Charlie_Musselwhite (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Franciszek_Smuda (100.0%)
+Prediction #1:  Clint_Hurdle (0.0%)
+Prediction #2:  Jan_Jakub_Kolski (0.0%)
+

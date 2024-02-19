@@ -1,0 +1,192 @@
+*****NEW LOG STARTED
+Time: 2024-02-16 02:23:21.143370
+Loss Model: SCC
+Original person & class:  Patti_LaBelle (6341)
+Target person & class: Rick_Perry (6841)
+
+Iteration #0
+Loss: -13.479915
+Prediction #0:  Patti_LaBelle (94.57%)
+Prediction #1:  Loni_Love (0.73%)
+Prediction #2:  Jujubee (0.42%)
+
+Iteration #5
+Loss: -8.081869
+Prediction #0:  Patti_LaBelle (17.0%)
+Prediction #1:  Mew_Azama (5.79%)
+Prediction #2:  Jujubee (5.18%)
+
+Iteration #10
+Loss: -3.8344488
+Prediction #0:  Mew_Azama (15.06%)
+Prediction #1:  Eri_Kamei (5.54%)
+Prediction #2:  Michelle_Waterson (2.34%)
+
+Iteration #15
+Loss: -0.36534882
+Prediction #0:  Mew_Azama (10.69%)
+Prediction #1:  Kurara_Chibana (5.31%)
+Prediction #2:  Eri_Kamei (4.55%)
+
+Iteration #20
+Loss: 2.5861216
+Prediction #0:  Kurara_Chibana (5.56%)
+Prediction #1:  Eri_Kamei (3.8%)
+Prediction #2:  Mew_Azama (3.66%)
+
+Iteration #25
+Loss: 5.7150297
+Prediction #0:  Naomi_Kawase (7.28%)
+Prediction #1:  Ai_Takahashi (3.18%)
+Prediction #2:  Eri_Kamei (2.75%)
+
+Iteration #30
+Loss: 8.856234
+Prediction #0:  Naomi_Kawase (10.01%)
+Prediction #1:  Rick_Perry (6.17%)
+Prediction #2:  Kaori_Momoi (4.05%)
+
+Iteration #35
+Loss: 11.841291
+Prediction #0:  Rick_Perry (37.89%)
+Prediction #1:  Naomi_Kawase (5.05%)
+Prediction #2:  Alice_Sara_Ott (3.02%)
+
+Iteration #40
+Loss: 14.384916
+Prediction #0:  Rick_Perry (80.83%)
+Prediction #1:  Alice_Sara_Ott (2.3%)
+Prediction #2:  Kaori_Momoi (0.91%)
+
+Iteration #45
+Loss: 16.493681
+Prediction #0:  Rick_Perry (95.2%)
+Prediction #1:  Alice_Sara_Ott (0.87%)
+Prediction #2:  Kaori_Momoi (0.13%)
+
+Iteration #50
+Loss: 18.509556
+Prediction #0:  Rick_Perry (98.71%)
+Prediction #1:  Alice_Sara_Ott (0.27%)
+Prediction #2:  Dannii_Minogue (0.04%)
+
+Iteration #55
+Loss: 20.40251
+Prediction #0:  Rick_Perry (99.68%)
+Prediction #1:  Alice_Sara_Ott (0.06%)
+Prediction #2:  \xc3\x89lodie_Bouchez (0.01%)
+
+Iteration #60
+Loss: 22.183407
+Prediction #0:  Rick_Perry (99.91%)
+Prediction #1:  Alice_Sara_Ott (0.01%)
+Prediction #2:  \xc3\x89lodie_Bouchez (0.0%)
+
+Iteration #65
+Loss: 23.782202
+Prediction #0:  Rick_Perry (99.97%)
+Prediction #1:  Alice_Sara_Ott (0.0%)
+Prediction #2:  \xc3\x89lodie_Bouchez (0.0%)
+
+Iteration #70
+Loss: 25.437279
+Prediction #0:  Rick_Perry (99.99%)
+Prediction #1:  Alice_Sara_Ott (0.0%)
+Prediction #2:  Seren_Serengil (0.0%)
+
+Iteration #75
+Loss: 27.109423
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bernard_Tapie (0.0%)
+Prediction #2:  Irina_Bj\xc3\xb6rklund (0.0%)
+
+Iteration #80
+Loss: 28.720055
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bernard_Tapie (0.0%)
+Prediction #2:  Irina_Bj\xc3\xb6rklund (0.0%)
+
+Iteration #85
+Loss: 30.008951
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bernard_Tapie (0.0%)
+Prediction #2:  Bob_Diamond (0.0%)
+
+Iteration #90
+Loss: 31.216303
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bob_Diamond (0.0%)
+Prediction #2:  Bernard_Tapie (0.0%)
+
+Iteration #95
+Loss: 32.25448
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bob_Diamond (0.0%)
+Prediction #2:  Bernard_Tapie (0.0%)
+
+Iteration #100
+Loss: 33.279205
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bob_Diamond (0.0%)
+Prediction #2:  Bernard_Tapie (0.0%)
+
+Iteration #105
+Loss: 34.18797
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bob_Diamond (0.0%)
+Prediction #2:  Bernard_Tapie (0.0%)
+
+Iteration #110
+Loss: 35.106884
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bob_Diamond (0.0%)
+Prediction #2:  Bernard_Tapie (0.0%)
+
+Iteration #115
+Loss: 35.94762
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bob_Diamond (0.0%)
+Prediction #2:  Bernard_Tapie (0.0%)
+
+Iteration #120
+Loss: 36.774364
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bob_Diamond (0.0%)
+Prediction #2:  Bernard_Tapie (0.0%)
+
+Iteration #125
+Loss: 37.53076
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bob_Diamond (0.0%)
+Prediction #2:  Bernard_Tapie (0.0%)
+
+Iteration #130
+Loss: 38.297707
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bob_Diamond (0.0%)
+Prediction #2:  Bernard_Tapie (0.0%)
+
+Iteration #135
+Loss: 39.04054
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bob_Diamond (0.0%)
+Prediction #2:  Bernard_Tapie (0.0%)
+
+Iteration #140
+Loss: 39.826603
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bob_Diamond (0.0%)
+Prediction #2:  Bernard_Tapie (0.0%)
+
+Iteration #145
+Loss: 40.610676
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bob_Diamond (0.0%)
+Prediction #2:  Bernard_Tapie (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Rick_Perry (100.0%)
+Prediction #1:  Bob_Diamond (0.0%)
+Prediction #2:  Bernard_Tapie (0.0%)
+

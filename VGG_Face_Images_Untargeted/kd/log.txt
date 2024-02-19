@@ -1,0 +1,191 @@
+*****NEW LOG STARTED
+Time: 2024-02-19 17:27:00.140708
+Loss Model: SCC
+Original person & class:  Kristin_Davis (4560)
+
+Iteration #0
+Loss: 1.7457253
+Prediction #0:  Kristin_Davis (17.45%)
+Prediction #1:  America_Olivo (6.51%)
+Prediction #2:  C\xc3\xa9cile_Duflot (6.12%)
+
+Iteration #5
+Loss: 8.105879
+Prediction #0:  Clare_Nasir (7.86%)
+Prediction #1:  Kate_Ritchie (5.86%)
+Prediction #2:  Kristina_Keneally (5.59%)
+
+Iteration #10
+Loss: 12.379594
+Prediction #0:  Kate_Ritchie (30.1%)
+Prediction #1:  Clare_Nasir (3.22%)
+Prediction #2:  Kristina_Keneally (2.65%)
+
+Iteration #15
+Loss: 17.574993
+Prediction #0:  Kate_Ritchie (91.17%)
+Prediction #1:  Alex_Aniston (0.56%)
+Prediction #2:  Carli_Lloyd (0.46%)
+
+Iteration #20
+Loss: 23.038733
+Prediction #0:  Kate_Ritchie (99.54%)
+Prediction #1:  Alex_Aniston (0.1%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.07%)
+
+Iteration #25
+Loss: 27.569576
+Prediction #0:  Kate_Ritchie (99.95%)
+Prediction #1:  Alex_Aniston (0.02%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.01%)
+
+Iteration #30
+Loss: 31.01554
+Prediction #0:  Kate_Ritchie (99.99%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #35
+Loss: 33.767994
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #40
+Loss: 36.419735
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #45
+Loss: 38.971886
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #50
+Loss: 41.175312
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #55
+Loss: 43.188538
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #60
+Loss: 45.093784
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #65
+Loss: 46.710213
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #70
+Loss: 48.224686
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #75
+Loss: 49.679283
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #80
+Loss: 50.98792
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #85
+Loss: 52.230255
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #90
+Loss: 53.5015
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #95
+Loss: 54.70777
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #100
+Loss: 55.87383
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #105
+Loss: 56.974045
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #110
+Loss: 57.992886
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #115
+Loss: 59.00785
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #120
+Loss: 60.03263
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #125
+Loss: 60.95848
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #130
+Loss: 61.81237
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #135
+Loss: 62.56299
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #140
+Loss: 63.27204
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #145
+Loss: 63.852135
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Kate_Ritchie (100.0%)
+Prediction #1:  Alex_Aniston (0.0%)
+Prediction #2:  Aneta_Langerov\xc3\xa1 (0.0%)
+

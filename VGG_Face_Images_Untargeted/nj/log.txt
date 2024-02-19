@@ -1,0 +1,191 @@
+*****NEW LOG STARTED
+Time: 2024-02-15 01:57:38.559718
+Loss Model: SCC
+Original person & class:  Nick_Jonas (6010)
+
+Iteration #0
+Loss: 1.3907849
+Prediction #0:  Nick_Jonas (24.89%)
+Prediction #1:  Saphir_Ta\xc3\xafder (4.35%)
+Prediction #2:  Kieza (3.58%)
+
+Iteration #5
+Loss: 6.19479
+Prediction #0:  Kieza (9.51%)
+Prediction #1:  Daniele_Bonera (2.51%)
+Prediction #2:  Felix_Sturm (2.42%)
+
+Iteration #10
+Loss: 10.244828
+Prediction #0:  Joan_Capdevila (3.6%)
+Prediction #1:  Mustafa_Pektemek (2.73%)
+Prediction #2:  Daniel_Brands (2.12%)
+
+Iteration #15
+Loss: 13.040845
+Prediction #0:  Juan_Carlos_Olave (6.25%)
+Prediction #1:  Ronan_OGara (4.63%)
+Prediction #2:  Arvydas_Macijauskas (3.38%)
+
+Iteration #20
+Loss: 17.028206
+Prediction #0:  Juan_Carlos_Olave (77.12%)
+Prediction #1:  Ben_Shenkman (6.24%)
+Prediction #2:  Arvydas_Macijauskas (1.46%)
+
+Iteration #25
+Loss: 22.294159
+Prediction #0:  Juan_Carlos_Olave (99.18%)
+Prediction #1:  Ben_Shenkman (0.32%)
+Prediction #2:  Arvydas_Macijauskas (0.06%)
+
+Iteration #30
+Loss: 26.869684
+Prediction #0:  Juan_Carlos_Olave (99.96%)
+Prediction #1:  Ben_Shenkman (0.01%)
+Prediction #2:  Ren\xc3\xa9_Adler (0.0%)
+
+Iteration #35
+Loss: 31.431334
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Ben_Shenkman (0.0%)
+
+Iteration #40
+Loss: 35.35819
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #45
+Loss: 38.47678
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #50
+Loss: 41.392334
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #55
+Loss: 43.946754
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #60
+Loss: 46.024475
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #65
+Loss: 48.375046
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #70
+Loss: 51.051502
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #75
+Loss: 53.88353
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #80
+Loss: 56.52238
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #85
+Loss: 58.750835
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #90
+Loss: 60.71889
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #95
+Loss: 62.597878
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #100
+Loss: 64.14321
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #105
+Loss: 65.72627
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #110
+Loss: 67.1064
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #115
+Loss: 68.43211
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #120
+Loss: 69.641594
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #125
+Loss: 70.81684
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #130
+Loss: 71.97595
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #135
+Loss: 73.0618
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #140
+Loss: 74.080025
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #145
+Loss: 75.142494
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Juan_Carlos_Olave (100.0%)
+Prediction #1:  Ren\xc3\xa9_Adler (0.0%)
+Prediction #2:  Davide_Nicola (0.0%)
+

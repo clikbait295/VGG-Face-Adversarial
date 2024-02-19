@@ -1,0 +1,192 @@
+*****NEW LOG STARTED
+Time: 2024-02-15 02:46:07.563906
+Loss Model: SCC
+Original person & class:  Amelia_Vega (383)
+Target person & class: Beenie_Man (883)
+
+Iteration #0
+Loss: -13.121051
+Prediction #0:  Amelia_Vega (75.0%)
+Prediction #1:  Chiara_Francini (3.71%)
+Prediction #2:  Rose_Byrne (1.65%)
+
+Iteration #5
+Loss: -3.9303498
+Prediction #0:  Evelyne_Brochu (3.66%)
+Prediction #1:  Clara_Alonso (3.62%)
+Prediction #2:  Charlotte_Salt (3.02%)
+
+Iteration #10
+Loss: 3.110179
+Prediction #0:  Evelyne_Brochu (4.91%)
+Prediction #1:  Julie_Taymor (3.61%)
+Prediction #2:  Charlotte_Salt (3.27%)
+
+Iteration #15
+Loss: 8.6567135
+Prediction #0:  Drew_Barrymore (8.41%)
+Prediction #1:  Caroline_Dhavernas (5.58%)
+Prediction #2:  Evelyne_Brochu (3.3%)
+
+Iteration #20
+Loss: 13.349773
+Prediction #0:  Drew_Barrymore (19.27%)
+Prediction #1:  Caroline_Dhavernas (11.0%)
+Prediction #2:  Charley_Webb (3.97%)
+
+Iteration #25
+Loss: 17.684246
+Prediction #0:  Drew_Barrymore (25.85%)
+Prediction #1:  Beenie_Man (14.69%)
+Prediction #2:  Caroline_Dhavernas (10.15%)
+
+Iteration #30
+Loss: 21.367146
+Prediction #0:  Beenie_Man (54.39%)
+Prediction #1:  Drew_Barrymore (12.92%)
+Prediction #2:  Caroline_Dhavernas (3.58%)
+
+Iteration #35
+Loss: 24.555035
+Prediction #0:  Beenie_Man (88.63%)
+Prediction #1:  Drew_Barrymore (2.11%)
+Prediction #2:  Kei_Kamara (0.87%)
+
+Iteration #40
+Loss: 27.375748
+Prediction #0:  Beenie_Man (97.26%)
+Prediction #1:  Drew_Barrymore (0.37%)
+Prediction #2:  Kei_Kamara (0.22%)
+
+Iteration #45
+Loss: 29.869568
+Prediction #0:  Beenie_Man (99.25%)
+Prediction #1:  Kei_Kamara (0.08%)
+Prediction #2:  Drew_Barrymore (0.06%)
+
+Iteration #50
+Loss: 31.83413
+Prediction #0:  Beenie_Man (99.72%)
+Prediction #1:  Chali_2na (0.03%)
+Prediction #2:  Kei_Kamara (0.02%)
+
+Iteration #55
+Loss: 33.409676
+Prediction #0:  Beenie_Man (99.87%)
+Prediction #1:  Kei_Kamara (0.02%)
+Prediction #2:  Chali_2na (0.02%)
+
+Iteration #60
+Loss: 35.017197
+Prediction #0:  Beenie_Man (99.94%)
+Prediction #1:  Chali_2na (0.01%)
+Prediction #2:  Kei_Kamara (0.01%)
+
+Iteration #65
+Loss: 36.476105
+Prediction #0:  Beenie_Man (99.97%)
+Prediction #1:  Chali_2na (0.01%)
+Prediction #2:  Kei_Kamara (0.01%)
+
+Iteration #70
+Loss: 37.99133
+Prediction #0:  Beenie_Man (99.98%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Karin_Bloemen (0.0%)
+
+Iteration #75
+Loss: 39.502403
+Prediction #0:  Beenie_Man (99.99%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Kei_Kamara (0.0%)
+
+Iteration #80
+Loss: 41.10573
+Prediction #0:  Beenie_Man (100.0%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Kei_Kamara (0.0%)
+
+Iteration #85
+Loss: 42.55194
+Prediction #0:  Beenie_Man (100.0%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Kei_Kamara (0.0%)
+
+Iteration #90
+Loss: 43.930656
+Prediction #0:  Beenie_Man (100.0%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Kei_Kamara (0.0%)
+
+Iteration #95
+Loss: 45.3218
+Prediction #0:  Beenie_Man (100.0%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Kei_Kamara (0.0%)
+
+Iteration #100
+Loss: 46.602783
+Prediction #0:  Beenie_Man (100.0%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Seun_Kuti (0.0%)
+
+Iteration #105
+Loss: 47.84064
+Prediction #0:  Beenie_Man (100.0%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Seun_Kuti (0.0%)
+
+Iteration #110
+Loss: 49.065163
+Prediction #0:  Beenie_Man (100.0%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Seun_Kuti (0.0%)
+
+Iteration #115
+Loss: 50.211002
+Prediction #0:  Beenie_Man (100.0%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Seun_Kuti (0.0%)
+
+Iteration #120
+Loss: 51.304756
+Prediction #0:  Beenie_Man (100.0%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Seun_Kuti (0.0%)
+
+Iteration #125
+Loss: 52.375927
+Prediction #0:  Beenie_Man (100.0%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Seun_Kuti (0.0%)
+
+Iteration #130
+Loss: 53.565258
+Prediction #0:  Beenie_Man (100.0%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Seun_Kuti (0.0%)
+
+Iteration #135
+Loss: 54.778793
+Prediction #0:  Beenie_Man (100.0%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Seun_Kuti (0.0%)
+
+Iteration #140
+Loss: 55.94307
+Prediction #0:  Beenie_Man (100.0%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Seun_Kuti (0.0%)
+
+Iteration #145
+Loss: 57.011765
+Prediction #0:  Beenie_Man (100.0%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Seun_Kuti (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Beenie_Man (100.0%)
+Prediction #1:  Chali_2na (0.0%)
+Prediction #2:  Seun_Kuti (0.0%)
+

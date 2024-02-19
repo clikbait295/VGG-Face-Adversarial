@@ -1,0 +1,196 @@
+*****NEW LOG STARTED
+Time: 2024-02-15 01:14:39.681917
+Loss Model: SCC
+Original person & class:  Amelia_Vega (383)
+
+*****NEW LOG STARTED
+Time: 2024-02-15 01:17:02.039492
+Loss Model: SCC
+Original person & class:  Amelia_Vega (383)
+
+Iteration #0
+Loss: 0.28771386
+Prediction #0:  Amelia_Vega (75.0%)
+Prediction #1:  Chiara_Francini (3.71%)
+Prediction #2:  Rose_Byrne (1.65%)
+
+Iteration #5
+Loss: 6.3498716
+Prediction #0:  Evelyne_Brochu (4.23%)
+Prediction #1:  Julie_Taymor (3.47%)
+Prediction #2:  Chiara_Francini (3.09%)
+
+Iteration #10
+Loss: 11.955076
+Prediction #0:  Evelyne_Brochu (6.86%)
+Prediction #1:  Julie_Taymor (4.17%)
+Prediction #2:  Charlotte_Salt (3.04%)
+
+Iteration #15
+Loss: 15.701251
+Prediction #0:  Erika_Buenfil (5.58%)
+Prediction #1:  Georgie_Thompson (5.51%)
+Prediction #2:  Contessa_Brewer (3.19%)
+
+Iteration #20
+Loss: 18.912155
+Prediction #0:  Drew_Barrymore (6.22%)
+Prediction #1:  Contessa_Brewer (6.19%)
+Prediction #2:  Caroline_Dhavernas (5.55%)
+
+Iteration #25
+Loss: 22.3944
+Prediction #0:  Drew_Barrymore (42.05%)
+Prediction #1:  Caroline_Dhavernas (9.36%)
+Prediction #2:  Contessa_Brewer (7.39%)
+
+Iteration #30
+Loss: 27.914812
+Prediction #0:  Drew_Barrymore (98.82%)
+Prediction #1:  Caroline_Dhavernas (0.23%)
+Prediction #2:  Contessa_Brewer (0.12%)
+
+Iteration #35
+Loss: 33.151363
+Prediction #0:  Drew_Barrymore (99.98%)
+Prediction #1:  Lisa_Marie_Presley (0.01%)
+Prediction #2:  Caroline_Dhavernas (0.0%)
+
+Iteration #40
+Loss: 37.125122
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Caroline_Dhavernas (0.0%)
+
+Iteration #45
+Loss: 40.19217
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #50
+Loss: 42.786144
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #55
+Loss: 45.0056
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #60
+Loss: 47.113758
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #65
+Loss: 48.96421
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #70
+Loss: 50.58888
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #75
+Loss: 52.243324
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #80
+Loss: 53.874504
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #85
+Loss: 55.3645
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #90
+Loss: 56.75623
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #95
+Loss: 58.038788
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #100
+Loss: 59.26781
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #105
+Loss: 60.385773
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #110
+Loss: 61.42386
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #115
+Loss: 62.396835
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #120
+Loss: 63.315884
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #125
+Loss: 64.16044
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #130
+Loss: 65.011375
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #135
+Loss: 65.864845
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #140
+Loss: 66.600945
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #145
+Loss: 67.31766
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Drew_Barrymore (100.0%)
+Prediction #1:  Lisa_Marie_Presley (0.0%)
+Prediction #2:  Andrea_Del_Boca (0.0%)
+

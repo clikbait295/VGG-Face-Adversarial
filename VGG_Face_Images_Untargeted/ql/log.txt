@@ -1,0 +1,191 @@
+*****NEW LOG STARTED
+Time: 2024-02-19 16:23:50.894037
+Loss Model: SCC
+Original person & class:  Qin_Lan (6591)
+
+Iteration #0
+Loss: 1.9063895
+Prediction #0:  Qin_Lan (14.86%)
+Prediction #1:  Fiona_Sit (5.45%)
+Prediction #2:  Hong_Soo-hyun (4.92%)
+
+Iteration #5
+Loss: 6.1743736
+Prediction #0:  \xe6\x9d\xbe\xe4\xba\x95\xe5\x8f\x8b\xe9\x87\x8c\xe7\xb5\xb5 (12.61%)
+Prediction #1:  Yui_Aragaki (4.74%)
+Prediction #2:  Jang_Seo-hee (1.6%)
+
+Iteration #10
+Loss: 10.148949
+Prediction #0:  Stella_Hudgens (4.2%)
+Prediction #1:  \xe6\x9d\xbe\xe4\xba\x95\xe5\x8f\x8b\xe9\x87\x8c\xe7\xb5\xb5 (4.17%)
+Prediction #2:  Bela_Padilla (3.46%)
+
+Iteration #15
+Loss: 13.637536
+Prediction #0:  Rachel_Melvin (12.8%)
+Prediction #1:  Maia_Mitchell (8.06%)
+Prediction #2:  Ayla_Kell (6.6%)
+
+Iteration #20
+Loss: 15.49685
+Prediction #0:  Rachel_Melvin (19.68%)
+Prediction #1:  Nicole_Gale_Anderson (12.37%)
+Prediction #2:  Maia_Mitchell (8.5%)
+
+Iteration #25
+Loss: 17.306448
+Prediction #0:  Rachel_Melvin (45.42%)
+Prediction #1:  Nicole_Gale_Anderson (14.31%)
+Prediction #2:  Maia_Mitchell (7.69%)
+
+Iteration #30
+Loss: 20.188427
+Prediction #0:  Rachel_Melvin (95.61%)
+Prediction #1:  Maia_Mitchell (1.11%)
+Prediction #2:  Nicole_Gale_Anderson (0.7%)
+
+Iteration #35
+Loss: 23.463808
+Prediction #0:  Rachel_Melvin (99.81%)
+Prediction #1:  Maia_Mitchell (0.06%)
+Prediction #2:  Madeline_Carroll (0.02%)
+
+Iteration #40
+Loss: 26.108173
+Prediction #0:  Rachel_Melvin (99.98%)
+Prediction #1:  Maia_Mitchell (0.0%)
+Prediction #2:  Jesse_J._White (0.0%)
+
+Iteration #45
+Loss: 28.09679
+Prediction #0:  Rachel_Melvin (99.99%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Maia_Mitchell (0.0%)
+
+Iteration #50
+Loss: 29.749582
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Maia_Mitchell (0.0%)
+
+Iteration #55
+Loss: 31.190386
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Maia_Mitchell (0.0%)
+
+Iteration #60
+Loss: 32.47281
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Maia_Mitchell (0.0%)
+
+Iteration #65
+Loss: 33.587402
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Tiffani_Thiessen (0.0%)
+
+Iteration #70
+Loss: 34.611385
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #75
+Loss: 35.559036
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #80
+Loss: 36.48178
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #85
+Loss: 37.30735
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #90
+Loss: 38.0451
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #95
+Loss: 38.712772
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #100
+Loss: 39.334927
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #105
+Loss: 39.922012
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #110
+Loss: 40.486652
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #115
+Loss: 41.01162
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #120
+Loss: 41.474945
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #125
+Loss: 41.933067
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #130
+Loss: 42.356403
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #135
+Loss: 42.785927
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #140
+Loss: 43.162537
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #145
+Loss: 43.559895
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Rachel_Melvin (100.0%)
+Prediction #1:  Jesse_J._White (0.0%)
+Prediction #2:  Pernille_Rosendahl (0.0%)
+

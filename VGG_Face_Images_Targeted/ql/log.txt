@@ -1,0 +1,192 @@
+*****NEW LOG STARTED
+Time: 2024-02-16 02:25:50.337373
+Loss Model: SCC
+Original person & class:  Qin_Lan (6591)
+Target person & class: Russell_Simmons (7091)
+
+Iteration #0
+Loss: -8.964077
+Prediction #0:  Qin_Lan (14.86%)
+Prediction #1:  Fiona_Sit (5.45%)
+Prediction #2:  Hong_Soo-hyun (4.92%)
+
+Iteration #5
+Loss: -3.2462888
+Prediction #0:  \xe6\x9d\xbe\xe4\xba\x95\xe5\x8f\x8b\xe9\x87\x8c\xe7\xb5\xb5 (7.89%)
+Prediction #1:  Yui_Aragaki (2.41%)
+Prediction #2:  Natalie_Tran (2.14%)
+
+Iteration #10
+Loss: 2.0448008
+Prediction #0:  Ayla_Kell (5.13%)
+Prediction #1:  Stella_Hudgens (3.28%)
+Prediction #2:  Nora_Danish (3.21%)
+
+Iteration #15
+Loss: 5.035022
+Prediction #0:  Ayla_Kell (12.91%)
+Prediction #1:  Alana_Nichols (3.79%)
+Prediction #2:  Karen_Gillan (3.19%)
+
+Iteration #20
+Loss: 7.4987454
+Prediction #0:  Ayla_Kell (18.06%)
+Prediction #1:  Alana_Nichols (5.88%)
+Prediction #2:  Leah_Remini (3.37%)
+
+Iteration #25
+Loss: 9.752781
+Prediction #0:  Analeigh_Tipton (12.87%)
+Prediction #1:  Ayla_Kell (11.78%)
+Prediction #2:  Leah_Remini (6.51%)
+
+Iteration #30
+Loss: 12.243611
+Prediction #0:  Analeigh_Tipton (24.02%)
+Prediction #1:  Russell_Simmons (10.33%)
+Prediction #2:  Leah_Remini (6.03%)
+
+Iteration #35
+Loss: 15.625827
+Prediction #0:  Russell_Simmons (55.34%)
+Prediction #1:  Henry_Burris (4.6%)
+Prediction #2:  Diosdado_Cabello (3.89%)
+
+Iteration #40
+Loss: 18.59415
+Prediction #0:  Russell_Simmons (87.7%)
+Prediction #1:  Diosdado_Cabello (1.82%)
+Prediction #2:  Gilbert_Gottfried (1.76%)
+
+Iteration #45
+Loss: 20.817408
+Prediction #0:  Russell_Simmons (96.62%)
+Prediction #1:  Gilbert_Gottfried (0.89%)
+Prediction #2:  Nikki_Giovanni (0.49%)
+
+Iteration #50
+Loss: 22.790089
+Prediction #0:  Russell_Simmons (98.91%)
+Prediction #1:  Gilbert_Gottfried (0.45%)
+Prediction #2:  Nikki_Giovanni (0.18%)
+
+Iteration #55
+Loss: 24.415798
+Prediction #0:  Russell_Simmons (99.59%)
+Prediction #1:  Gilbert_Gottfried (0.18%)
+Prediction #2:  Nikki_Giovanni (0.08%)
+
+Iteration #60
+Loss: 25.84118
+Prediction #0:  Russell_Simmons (99.84%)
+Prediction #1:  Gilbert_Gottfried (0.06%)
+Prediction #2:  Nikki_Giovanni (0.05%)
+
+Iteration #65
+Loss: 26.989138
+Prediction #0:  Russell_Simmons (99.91%)
+Prediction #1:  Gilbert_Gottfried (0.03%)
+Prediction #2:  Nikki_Giovanni (0.02%)
+
+Iteration #70
+Loss: 28.078892
+Prediction #0:  Russell_Simmons (99.96%)
+Prediction #1:  Nikki_Giovanni (0.02%)
+Prediction #2:  Gilbert_Gottfried (0.01%)
+
+Iteration #75
+Loss: 29.094185
+Prediction #0:  Russell_Simmons (99.98%)
+Prediction #1:  Nikki_Giovanni (0.01%)
+Prediction #2:  Gilbert_Gottfried (0.0%)
+
+Iteration #80
+Loss: 29.950068
+Prediction #0:  Russell_Simmons (99.99%)
+Prediction #1:  Nikki_Giovanni (0.01%)
+Prediction #2:  Gilbert_Gottfried (0.0%)
+
+Iteration #85
+Loss: 30.729681
+Prediction #0:  Russell_Simmons (99.99%)
+Prediction #1:  Nikki_Giovanni (0.0%)
+Prediction #2:  Gilbert_Gottfried (0.0%)
+
+Iteration #90
+Loss: 31.470581
+Prediction #0:  Russell_Simmons (99.99%)
+Prediction #1:  Nikki_Giovanni (0.0%)
+Prediction #2:  Gilbert_Gottfried (0.0%)
+
+Iteration #95
+Loss: 32.188545
+Prediction #0:  Russell_Simmons (100.0%)
+Prediction #1:  Nikki_Giovanni (0.0%)
+Prediction #2:  Gilbert_Gottfried (0.0%)
+
+Iteration #100
+Loss: 32.87216
+Prediction #0:  Russell_Simmons (100.0%)
+Prediction #1:  Nikki_Giovanni (0.0%)
+Prediction #2:  Gilbert_Gottfried (0.0%)
+
+Iteration #105
+Loss: 33.574932
+Prediction #0:  Russell_Simmons (100.0%)
+Prediction #1:  Nikki_Giovanni (0.0%)
+Prediction #2:  Gilbert_Gottfried (0.0%)
+
+Iteration #110
+Loss: 34.26361
+Prediction #0:  Russell_Simmons (100.0%)
+Prediction #1:  Nikki_Giovanni (0.0%)
+Prediction #2:  Gilbert_Gottfried (0.0%)
+
+Iteration #115
+Loss: 34.861874
+Prediction #0:  Russell_Simmons (100.0%)
+Prediction #1:  Nikki_Giovanni (0.0%)
+Prediction #2:  Gilbert_Gottfried (0.0%)
+
+Iteration #120
+Loss: 35.416004
+Prediction #0:  Russell_Simmons (100.0%)
+Prediction #1:  Nikki_Giovanni (0.0%)
+Prediction #2:  Garchen_Rinpoche (0.0%)
+
+Iteration #125
+Loss: 35.943565
+Prediction #0:  Russell_Simmons (100.0%)
+Prediction #1:  Nikki_Giovanni (0.0%)
+Prediction #2:  Gilbert_Gottfried (0.0%)
+
+Iteration #130
+Loss: 36.431873
+Prediction #0:  Russell_Simmons (100.0%)
+Prediction #1:  Nikki_Giovanni (0.0%)
+Prediction #2:  Garchen_Rinpoche (0.0%)
+
+Iteration #135
+Loss: 36.94043
+Prediction #0:  Russell_Simmons (100.0%)
+Prediction #1:  Nikki_Giovanni (0.0%)
+Prediction #2:  Garchen_Rinpoche (0.0%)
+
+Iteration #140
+Loss: 37.436802
+Prediction #0:  Russell_Simmons (100.0%)
+Prediction #1:  Nikki_Giovanni (0.0%)
+Prediction #2:  Garchen_Rinpoche (0.0%)
+
+Iteration #145
+Loss: 37.9615
+Prediction #0:  Russell_Simmons (100.0%)
+Prediction #1:  Nikki_Giovanni (0.0%)
+Prediction #2:  Gilbert_Gottfried (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Russell_Simmons (100.0%)
+Prediction #1:  Nikki_Giovanni (0.0%)
+Prediction #2:  Garchen_Rinpoche (0.0%)
+

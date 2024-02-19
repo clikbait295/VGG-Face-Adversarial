@@ -1,0 +1,192 @@
+*****NEW LOG STARTED
+Time: 2024-02-15 02:42:12.416660
+Loss Model: SCC
+Original person & class:  A._R._Rahman (4)
+Target person & class: Andrew_W.K. (504)
+
+Iteration #0
+Loss: -14.421632
+Prediction #0:  A._R._Rahman (61.72%)
+Prediction #1:  R._Madhavan (2.86%)
+Prediction #2:  Guillaume_de_Tonqu\xc3\xa9dec (2.53%)
+
+Iteration #5
+Loss: -8.468317
+Prediction #0:  Clemente_Mastella (3.98%)
+Prediction #1:  Jose_Antonio_Vargas (3.47%)
+Prediction #2:  Emeril_Lagasse (2.97%)
+
+Iteration #10
+Loss: -3.4114165
+Prediction #0:  Russell_Means (17.36%)
+Prediction #1:  Emeril_Lagasse (3.99%)
+Prediction #2:  Clemente_Mastella (1.64%)
+
+Iteration #15
+Loss: 0.8983717
+Prediction #0:  Russell_Means (39.51%)
+Prediction #1:  Emeril_Lagasse (2.49%)
+Prediction #2:  Mehmet_Kurtulu\xc5\x9f (1.69%)
+
+Iteration #20
+Loss: 5.1391664
+Prediction #0:  Russell_Means (60.69%)
+Prediction #1:  Timothy_Dalton (1.45%)
+Prediction #2:  Peter_Steele (0.92%)
+
+Iteration #25
+Loss: 9.959617
+Prediction #0:  Russell_Means (33.75%)
+Prediction #1:  Dave_Wyndorf (8.87%)
+Prediction #2:  Geezer_Butler (7.03%)
+
+Iteration #30
+Loss: 13.744129
+Prediction #0:  Andrew_W.K. (21.51%)
+Prediction #1:  Dave_Wyndorf (16.95%)
+Prediction #2:  Russell_Means (11.19%)
+
+Iteration #35
+Loss: 16.94931
+Prediction #0:  Andrew_W.K. (57.35%)
+Prediction #1:  Dave_Wyndorf (13.43%)
+Prediction #2:  Geezer_Butler (5.28%)
+
+Iteration #40
+Loss: 19.788523
+Prediction #0:  Andrew_W.K. (87.25%)
+Prediction #1:  Dave_Wyndorf (5.08%)
+Prediction #2:  Geezer_Butler (1.26%)
+
+Iteration #45
+Loss: 22.482027
+Prediction #0:  Andrew_W.K. (97.68%)
+Prediction #1:  Dave_Wyndorf (0.96%)
+Prediction #2:  Geezer_Butler (0.28%)
+
+Iteration #50
+Loss: 25.252481
+Prediction #0:  Andrew_W.K. (99.65%)
+Prediction #1:  Dave_Wyndorf (0.15%)
+Prediction #2:  Geezer_Butler (0.03%)
+
+Iteration #55
+Loss: 28.41008
+Prediction #0:  Andrew_W.K. (99.95%)
+Prediction #1:  Dave_Wyndorf (0.02%)
+Prediction #2:  Tomi_Joutsen (0.0%)
+
+Iteration #60
+Loss: 31.536362
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Dave_Wyndorf (0.0%)
+Prediction #2:  Tomi_Joutsen (0.0%)
+
+Iteration #65
+Loss: 34.772694
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Dave_Wyndorf (0.0%)
+Prediction #2:  Tomi_Joutsen (0.0%)
+
+Iteration #70
+Loss: 37.728577
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Dave_Wyndorf (0.0%)
+Prediction #2:  Joacim_Cans (0.0%)
+
+Iteration #75
+Loss: 40.88377
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Dave_Wyndorf (0.0%)
+Prediction #2:  Joacim_Cans (0.0%)
+
+Iteration #80
+Loss: 43.948982
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Joacim_Cans (0.0%)
+Prediction #2:  Dave_Wyndorf (0.0%)
+
+Iteration #85
+Loss: 46.88775
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Joacim_Cans (0.0%)
+Prediction #2:  Dave_Wyndorf (0.0%)
+
+Iteration #90
+Loss: 49.856186
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Joacim_Cans (0.0%)
+Prediction #2:  Dave_Wyndorf (0.0%)
+
+Iteration #95
+Loss: 52.57376
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Joacim_Cans (0.0%)
+Prediction #2:  Chris_Traynor (0.0%)
+
+Iteration #100
+Loss: 55.03463
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Joacim_Cans (0.0%)
+Prediction #2:  Chris_Traynor (0.0%)
+
+Iteration #105
+Loss: 57.249966
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Chris_Traynor (0.0%)
+Prediction #2:  Joacim_Cans (0.0%)
+
+Iteration #110
+Loss: 59.286465
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Chris_Traynor (0.0%)
+Prediction #2:  Joacim_Cans (0.0%)
+
+Iteration #115
+Loss: 61.300564
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Chris_Traynor (0.0%)
+Prediction #2:  Joacim_Cans (0.0%)
+
+Iteration #120
+Loss: 63.1017
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Chris_Traynor (0.0%)
+Prediction #2:  Robin_Pecknold (0.0%)
+
+Iteration #125
+Loss: 64.90989
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Joacim_Cans (0.0%)
+Prediction #2:  Robin_Pecknold (0.0%)
+
+Iteration #130
+Loss: 66.52151
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Chris_Traynor (0.0%)
+Prediction #2:  Robin_Pecknold (0.0%)
+
+Iteration #135
+Loss: 68.1027
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Robin_Pecknold (0.0%)
+Prediction #2:  Joacim_Cans (0.0%)
+
+Iteration #140
+Loss: 69.45362
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Robin_Pecknold (0.0%)
+Prediction #2:  Chris_Traynor (0.0%)
+
+Iteration #145
+Loss: 70.8108
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Robin_Pecknold (0.0%)
+Prediction #2:  Joacim_Cans (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Andrew_W.K. (100.0%)
+Prediction #1:  Robin_Pecknold (0.0%)
+Prediction #2:  Chris_Traynor (0.0%)
+
