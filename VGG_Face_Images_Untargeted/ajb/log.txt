@@ -1,0 +1,191 @@
+*****NEW LOG STARTED
+Time: 2024-02-13 18:49:21.516174
+Loss Model: SCC
+Original person & class:  A._J._Buckley (2)
+
+Iteration #0
+Loss: 0.12932053
+Prediction #0:  A._J._Buckley (87.87%)
+Prediction #1:  Chris_Hardwick (2.2%)
+Prediction #2:  Vince_Gill (0.76%)
+
+Iteration #5
+Loss: 3.1991498
+Prediction #0:  Chris_Hardwick (14.71%)
+Prediction #1:  Eric_Lindell (5.03%)
+Prediction #2:  Michael_Voltaggio (4.25%)
+
+Iteration #10
+Loss: 7.807208
+Prediction #0:  Eric_Lindell (21.91%)
+Prediction #1:  Sheamus (4.44%)
+Prediction #2:  Ryan_Peake (3.36%)
+
+Iteration #15
+Loss: 12.313657
+Prediction #0:  Eric_Lindell (64.36%)
+Prediction #1:  Sheamus (4.27%)
+Prediction #2:  Guy_Garvey (2.05%)
+
+Iteration #20
+Loss: 17.474077
+Prediction #0:  Eric_Lindell (98.42%)
+Prediction #1:  Peter_Neururer (0.12%)
+Prediction #2:  Ryan_Peake (0.08%)
+
+Iteration #25
+Loss: 21.737595
+Prediction #0:  Eric_Lindell (99.87%)
+Prediction #1:  Peter_Neururer (0.02%)
+Prediction #2:  Dirk_Schuster (0.0%)
+
+Iteration #30
+Loss: 25.108488
+Prediction #0:  Eric_Lindell (99.99%)
+Prediction #1:  Peter_Neururer (0.0%)
+Prediction #2:  Tony_Popovic (0.0%)
+
+Iteration #35
+Loss: 28.061314
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Peter_Neururer (0.0%)
+Prediction #2:  Stefano_Bettarini (0.0%)
+
+Iteration #40
+Loss: 30.550741
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Peter_Neururer (0.0%)
+Prediction #2:  Wolfgang_Bahro (0.0%)
+
+Iteration #45
+Loss: 32.639706
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Derek_Trucks (0.0%)
+Prediction #2:  Fito_Cabrales (0.0%)
+
+Iteration #50
+Loss: 34.476738
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Derek_Trucks (0.0%)
+Prediction #2:  Jon_Schaffer (0.0%)
+
+Iteration #55
+Loss: 36.101883
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Fito_Cabrales (0.0%)
+Prediction #2:  Derek_Trucks (0.0%)
+
+Iteration #60
+Loss: 37.61909
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Derek_Trucks (0.0%)
+Prediction #2:  Fito_Cabrales (0.0%)
+
+Iteration #65
+Loss: 39.053326
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Fito_Cabrales (0.0%)
+Prediction #2:  Derek_Trucks (0.0%)
+
+Iteration #70
+Loss: 40.319767
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Derek_Trucks (0.0%)
+Prediction #2:  Fito_Cabrales (0.0%)
+
+Iteration #75
+Loss: 41.94752
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Fito_Cabrales (0.0%)
+Prediction #2:  Derek_Trucks (0.0%)
+
+Iteration #80
+Loss: 43.547832
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Derek_Trucks (0.0%)
+Prediction #2:  Fito_Cabrales (0.0%)
+
+Iteration #85
+Loss: 45.005135
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Fito_Cabrales (0.0%)
+Prediction #2:  Derek_Trucks (0.0%)
+
+Iteration #90
+Loss: 46.397476
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Derek_Trucks (0.0%)
+Prediction #2:  Fito_Cabrales (0.0%)
+
+Iteration #95
+Loss: 47.8682
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Fito_Cabrales (0.0%)
+Prediction #2:  Derek_Trucks (0.0%)
+
+Iteration #100
+Loss: 49.13888
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Derek_Trucks (0.0%)
+Prediction #2:  Fito_Cabrales (0.0%)
+
+Iteration #105
+Loss: 50.45605
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Fito_Cabrales (0.0%)
+Prediction #2:  Derek_Trucks (0.0%)
+
+Iteration #110
+Loss: 51.659023
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Fito_Cabrales (0.0%)
+Prediction #2:  Derek_Trucks (0.0%)
+
+Iteration #115
+Loss: 52.805088
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Fito_Cabrales (0.0%)
+Prediction #2:  Derek_Trucks (0.0%)
+
+Iteration #120
+Loss: 53.971886
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Fito_Cabrales (0.0%)
+Prediction #2:  Derek_Trucks (0.0%)
+
+Iteration #125
+Loss: 55.28711
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Fito_Cabrales (0.0%)
+Prediction #2:  Derek_Trucks (0.0%)
+
+Iteration #130
+Loss: 56.537117
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Fito_Cabrales (0.0%)
+Prediction #2:  Derek_Trucks (0.0%)
+
+Iteration #135
+Loss: 57.786026
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Fito_Cabrales (0.0%)
+Prediction #2:  Derek_Trucks (0.0%)
+
+Iteration #140
+Loss: 58.78911
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Fito_Cabrales (0.0%)
+Prediction #2:  Derek_Trucks (0.0%)
+
+Iteration #145
+Loss: 59.82795
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Fito_Cabrales (0.0%)
+Prediction #2:  Nomar_Garciaparra (0.0%)
+
+Iteration #150
+Loss: NA
+Prediction #0:  Eric_Lindell (100.0%)
+Prediction #1:  Fito_Cabrales (0.0%)
+Prediction #2:  Derek_Trucks (0.0%)
+
