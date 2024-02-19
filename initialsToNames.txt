@@ -1,0 +1,10 @@
+AJB = A. J. Buckley
+ARR = A. R. Rahman
+AV = Amelia Vega
+DJ = Dwayne Johnson
+EV = Elizabeth Vargas
+KD = Kristin Davis
+MS = Moussa Sow
+NJ = Nick Jonas
+PLB = Patti LaBelle
+QL = Qin Lan
