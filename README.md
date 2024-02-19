@@ -1,4 +1,4 @@
-# Adversarial model against VGG-Face facial recognition model
+# Adversarial attack against VGG-Face facial recognition model
 All code files for my science research project titled "Safeguarding Personal Privacy by Using Adversarial Machine Learning Against Invasive Facial Recognition Models."
 
 File structure:
